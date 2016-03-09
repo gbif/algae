@@ -6,7 +6,7 @@ This classification is aiming to fill the algae gaps in the current Catalog of L
  - Plantae: Charophyta, Chlorophyta, Glaucophyta, Rhodophyta
  - Protozoa: Euglenozoa
 
-This is mainly to amend the serious gaps found in the current Catalog of Life.
+The classification is registered in GBIF as http://www.gbif.org/dataset/7ea21580-4f06-469d-995b-3f713fdcc37c
 
 # Classifications in use
 The following classifications have been used as sources to create the algae classification.
