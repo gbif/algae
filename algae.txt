@@ -9,7 +9,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 599600	179048		Family	Porocharaceae				
 422893	146217		Order	Coleochaetales				
 422894	422893		Family	Coleochaetaceae				
-494033	368664		Class	Charophyta incertae sedis				
 368673	368664		Class	Klebsormidiophyceae		1		
 22970	368673		Order	Klebsormidiales		1		
 572034	22970		Family	Elakatotrichaceae				
@@ -44,7 +43,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 17111		732333	Order	Chlorococcales		1		
 599605	732333		Family	Actinochloridaceae				
 599606	732333		Family	Characiosiphonaceae				
-732334	732333		Family	Chlamydomonadales incertae sedis				
 493880	732333		Family	Chlorochytriaceae				
 143676	732333		Family	Chlorococcaceae		1		
 577656	732333		Family	Chlorosarcinaceae				
@@ -65,9 +63,8 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 17111	802		Order	Chlorococcales		1		
 21243	802		Order	Chlorocystidales		1		
 143678	21243		Family	Chlorocystidaceae		1		
-577868	802		Order	Chlorophyceae incertae sedis				
-599614	577868		Family	Chlorangiopsidaceae				
-599615	577868		Family	Tetracystaceae				
+599614	802		Family	Chlorangiopsidaceae				
+599615	802		Family	Tetracystaceae				
 22965	802		Order	Codiales		1		
 599636	802		Order	Dunaliellales				
 599637	599636		Family	Asteromonadaceae				
@@ -90,7 +87,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 836370	558965		Family	Rotundellaceae				
 160541	558965		Family	Scenedesmaceae		1		
 599705	558965		Family	Selenastraceae				
-599706	558965		Family	Sphaeropleales incertae sedis				
 836371	558965		Family	Tumidellaceae				
 18537	802		Order	Tetrasporales		1		
 599715	18537		Family	Characiochloridaceae				
@@ -115,8 +111,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 163120	18526		Family	Spondylomoraceae				
 578344	18526		Family	Tetrabaenaceae				
 143798	18526		Family	Volvocaceae		1		
-599729	18526		Family	Volvocales incertae sedis				
-369188	801		Class	Chlorophyta incertae sedis				
 493835	801		Class	Mamiellophyceae				
 493836	493835		Order	Dolichomastigales				
 493886	493836		Family	Dolichomastigaceae				
@@ -145,7 +139,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 172813	172812		Family	Pterospermataceae				
 368706	17329		Order	Prasinococcales		1		
 368882	368706		Family	Prasinococcaceae		1		
-599687	17329		Order	Prasinophyceae incertae sedis				
 368707	17329		Order	Pseudoscourfieldiales		1		
 22613	368707		Family	Pycnococcaceae		1		
 17330	17329		Order	Pyramimonadales		1		
@@ -154,7 +147,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 160573	801		Class	Trebouxiophyceae		1		
 160574	160573		Order	Chlorellales				
 160575	160574		Family	Chlorellaceae		1		
-599601	160574		Family	Chlorellales incertae sedis				
 599602	160574		Family	Ctenocladaceae				
 599603	160574		Family	Eremosphaeraceae				
 558970	160574		Family	Koliellaceae				
@@ -165,12 +157,9 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 160589	493837		Family	Oocystaceae		1		
 820	160573		Order	Prasiolales		1		
 143771	820		Family	Prasiolaceae		1		
-599688	820		Family	Prasiolales incertae sedis				
 599721	160573		Order	Trebouxiales				
 493881	599721		Family	Botryococcaceae				
 599722	599721		Family	Trebouxiaceae				
-576703	160573		Order	Trebouxiophyceae ordo incertae sedis				
-576704	576703		Family	Trebouxiophyceae incertae sedis				
 146216	801		Class	Ulvophyceae		1		
 368675		146216	Class	Bryopsidophyceae		1		
 808	146216		Order	Bryopsidales		1		
@@ -221,9 +210,7 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 143793	827		Family	Monostromataceae		1		
 143764	827		Family	Phaeophilaceae		1		
 143794	827		Family	Ulvaceae		1		
-599726	827		Family	Ulvales incertae sedis				
 143795	827		Family	Ulvellaceae		1		
-599727	146216		Order	Ulvophyceae incertae sedis				
 
 599656	3		Phylum	Glaucophyta				
 599657	599656		Class	Glaucophyceae				
@@ -259,7 +246,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 143692	15308		Family	Sporolithaceae		1		
 368688	368687		Order	Rhodogorgonales		1		
 368886	368688		Family	Rhodogorgonaceae		1		
-493888	368670		Order	Florideophyceae incertae sedis				
 368689	368670		Subclass	Hildenbrandiophycidae		1		
 146316	368689		Order	Hildenbrandiales		1		
 143750	146316		Family	Hildenbrandiaceae		1		
@@ -293,7 +279,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 860	196243		Order	Ceramiales		1		
 493878	860		Family	Callithamniaceae				
 143671	860		Family	Ceramiaceae		1		
-599744	860		Family	Ceramiales incertae sedis				
 143672	860		Family	Dasyaceae		1		
 143673	860		Family	Delesseriaceae		1		
 493876	860		Family	Inkyuleeaceae				
@@ -356,7 +341,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 143749	876		Family	Pterocladiophilaceae		1		
 162592	196243		Order	Halymeniales		1		
 143697	162592		Family	Halymeniaceae		1		
-836353	162592		Family	Halymeniales incertae sedis				
 599665	162592		Family	Tsengiaceae				
 368694	196243		Order	Nemastomatales		1		
 143736	368694		Family	Nemastomataceae		1		
@@ -380,7 +364,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 493898	15241		Family	Hymenocladiaceae				
 143775	15241		Family	Lomentariaceae		1		
 143776	15241		Family	Rhodymeniaceae		1		
-493900	15241		Family	Rhodymeniales incertae sedis				
 368696	196243		Order	Sebdeniales		1		
 143743	368696		Family	Sebdeniaceae		1		
 381050	196243		Order	Thoreales				
@@ -392,7 +375,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 143690	22966		Family	Compsopogonaceae		1		
 146320	368669		Order	Erythropeltidales		1		
 143721	146320		Family	Erythropeltidaceae		1		
-599650	146320		Family	Erythropeltidales incertae sedis				
 162774	146320		Family	Erythrotrichiaceae		1		
 22973	368669		Order	Rhodochaetales		1		
 143772	22973		Family	Rhodochaetaceae		1		
@@ -402,7 +384,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 143694	22967		Family	Corynomorphaceae		1		
 196197	22967		Family	Cryptonemiaceae				
 22975	854		Order	Sphaerococcales		1		
-369193	852		Class	Rhodophyta incertae sedis				
 368666	852		Subdivision	Rhodophytina		1		
 493832	368666		Class	Porphyridiophyceae				
 15324	493832		Order	Porphyridiales		1		
@@ -446,7 +427,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 17654		582210	Order	Eutreptiales		1		
 17788	582210		Family	Astasiaceae		1		
 17655	582210		Family	Eutreptiaceae		1		
-593330	582177		Subclass	Euglenoidea incertae sedis				
 582201	582177		Subclass	Peranemia				
 582211	582201		Order	Peranemida				
 21621	582211		Family	Peranemaceae		1		
@@ -460,7 +440,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 17654	19539		Order	Eutreptiales		1		
 562565	536202		Class	Kinetoplastea				
 26		562565	Class	Kinetoplastida		1		
-593328	562565		Subclass	Kinetoplastea incertae sedis				
 562566	562565		Subclass	Metakinetoplastina				
 562574	562566		Order	Bodonida				
 582215	562566		Order	Eubodonida				
@@ -530,15 +509,13 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 162802	17640		Family	Cyathomonadaceae				
 17641	17640		Family	Hemiselmidaceae		1		
 178563	17640		Family	Hilleaceae				
-22707	17639		Order	Cryptophyceae incertae sedis		1		
 20997	17639		Order	Pyrenomonadales		1		
 20998	20997		Family	Chroomonadaceae		1		
 22582	20997		Family	Geminigeraceae		1		
 20999	20997		Family	Pyrenomonadaceae		1		
 582423	17639		Order	Tetragonidiales				
 599714	582423		Family	Tetragonidiaceae				
-598944	17638		Class	Cryptophyta incertae sedis				
-599623	598944		Family	Katablepharidaceae				
+599623	17638		Family	Katablepharidaceae				
 146152		599623	Family	Kathablepharidae		1		
 582422	17638		Class	Goniomonadophyceae				
 22578	582422		Order	Goniomonadales		1		
@@ -554,9 +531,8 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 146194		369190	Phylum	Haptomonada		1		
 592906	369190		Class	Coccolithophyceae				
 236093	592906		Subclass	Prymnesiophycidae		1		
-369191	369190		Class	Haptophyta incertae sedis				
-493971	369191		Family	Alisphaeraceae				
-235834	369191		Family	Ceratolithaceae				
+493971	369190		Family	Alisphaeraceae				
+235834	369190		Family	Ceratolithaceae				
 249727	369190		Class	Pavlovophyceae				
 249728		249727	Subclass	Pavlovophycidae				
 249729	249727		Order	Pavlovales				
@@ -578,7 +554,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 146233		115059	Order	Coccolithophorales		1		
 235832	115059		Family	Braarudosphaeraceae				
 115064	115059		Family	Calyptrosphaeraceae		1		
-235837	115059		Family	Coccosphaerales incertae sedis				
 115065	115059		Family	Deflandriaceae		1		
 146197		115065	Family	Papposphaeraceae		1		
 115066	115059		Family	Halopappaceae		1		
@@ -593,7 +568,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 599689	115061		Family	Chrysochromulinaceae				
 238354	115061		Family	Chrysotilaceae				
 115073	115061		Family	Prymnesiaceae		1		
-115062	115057		Order	Prymnesiophyceae incertae sedis		1		
 493820	115057		Order	Syracosphaerales				
 235833	493820		Family	Calciosoleniaceae				
 115068	493820		Family	Rhabdosphaeraceae		1		
@@ -621,12 +595,10 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 149001	591186		Order	Bacillariales		1		
 149002	149001		Family	Bacillariaceae		1		
 478555		149002	Family	Nitzschiaceae				
-599591	149001		Family	Bacillariales incertae sedis				
 478555	149001		Family	Nitzschiaceae				
 149389	591186		Order	Cymbellales		1		
 149410	149389		Family	Anomoeoneidaceae		1		
 149537	149389		Family	Cymbellaceae		1		
-707549	149389		Family	Cymbellales incertae sedis				
 149552	149389		Family	Gomphonemataceae		1		
 149390	149389		Family	Rhoicospheniaceae		1		
 591187	591186		Order	Dictyoneidales				
@@ -640,7 +612,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 149017	149015		Family	Diploneidaceae		1		
 149016	149015		Suborder	Diploneidineae		1		
 149031	149015		Family	Naviculaceae		1		
-836354	149015		Family	Naviculales incertae sedis				
 149030	149015		Suborder	Naviculineae		1		
 149515	149030		Family	Plagiotropidaceae		1		
 177873	149030		Family	Proschkiniaceae		1		
@@ -670,8 +641,7 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 149198	591186		Order	Thalassiophysales		1		
 149199	149198		Family	Catenulaceae		1		
 176369	149198		Family	Thalassiophysaceae		1		
-450614	148902		Superorder	Bacillariophycidae incertae sedis				
-149063	450614		Order	Rhaponeidales		1		
+149063	148902		Order	Rhaponeidales		1		
 177855	149063		Family	Psammodiscaceae		1		
 149064	149063		Family	Rhaphoneidaceae		1		
 591188	148902		Superorder	Eunotiophycanae				
@@ -700,10 +670,9 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 148983		591197	Order	Chaetocerotales		1		
 148977		591197	Subclass	Chaetocerotophycidae		1		
 591198	591197		Order	Chaetocerales				
-593505	591197		Order	Chaetocerotanae incertae sedis				
-162752	593505		Family	Acanthocerataceae		1		
-160518	593505		Family	Attheyaceae		1		
-148984	593505		Family	Chaetocerotaceae		1		
+162752	591197		Family	Acanthocerataceae		1		
+160518	591197		Family	Attheyaceae		1		
+148984	591197		Family	Chaetocerotaceae		1		
 149036	591197		Order	Leptocylindrales		1		
 149037	149036		Family	Leptocylindraceae		1		
 591194	148971		Superorder	Corethranae				
@@ -802,7 +771,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 148976	148900		Subclass	Rhizosoleniophycidae		1		
 148970	148900		Subclass	Thalassiosirophycidae		1		
 591185	576884		Class	Diatomeae				
-593500	576884		Class	Khakista incertae sedis				
 345483	576884		Class	Mediophyceae		1		
 148972	345483		Subclass	Biddulphiophycidae		1		
 149660	148972		Order	Eupodiscales				
@@ -810,7 +778,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 148983	345483		Order	Chaetocerotales		1		
 148975	345483		Subclass	Cymatosirophycidae		1		
 148973	345483		Subclass	Lithodesmiophycidae		1		
-369192	345465		Subphylum	Ochrophyta incertae sedis				
 588641	345465		Subphylum	Phaeista				
 591205	588641		Infraphylum	Limnista				
 146230	591205		Class	Chrysophyceae		1		
@@ -821,7 +788,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 178642	146230		Order	Chromalinales				
 248107	146230		Order	Chromulinales				
 178642		248107	Order	Chromalinales				
-599879	248107		Family	Chromulinales incertae sedis				
 248108	248107		Family	Chrysamoebaceae				
 509592	248107		Family	Chrysocapsaceae				
 160547	248107		Family	Chrysococcaceae				
@@ -829,7 +795,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 577558	248107		Family	Chrysosphaeraceae				
 599616	248107		Family	Chrysothallaceae				
 157239	248107		Family	Dinobryaceae				
-172420	146230		Order	Chrysophyceae incertae sedis				
 591201	146230		Order	Chrysosphaerales				
 456711	146230		Order	Heterogloeales				
 456712	456711		Family	Heterogloeaceae				
@@ -932,9 +897,8 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 368874	368701		Family	Nemodermataceae		1		
 368702	830		Order	Onslowiales		1		
 368877	368702		Family	Onslowiaceae		1		
-197011	830		Order	Phaeophyceae incertae sedis				
-368779	197011		Family	Phaeosiphoniellaceae		1		
-368780	197011		Family	Phaeostrophiaceae		1		
+368779	830		Family	Phaeosiphoniellaceae		1		
+368780	830		Family	Phaeostrophiaceae		1		
 368704	830		Order	Phaeothamniales		1		
 157469	368704		Family	Phaeosaccionaceae				
 368879	368704		Family	Phaeothamniaceae		1		
@@ -1002,7 +966,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 577731	577610		Family	Xanthonemataceae				
 21627	17793		Order	Vaucheriales		1		
 143797	21627		Family	Vaucheriaceae		1		
-345556	17793		Order	Xanthophyceae incertae sedis				
 591206	591205		Class	Picophagea				
 590435		591206	Class	Picophagophyceae		1		
 591207	591206		Order	Chlamydomyxales				
@@ -1030,10 +993,7 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 157256	146232		Order	Dictyochales		1		
 378496		157256	Order	Silicoflagellida		1		
 157257	157256		Family	Dictyochaceae		1		
-178626	157256		Family	Dictyochales incertae sedis				
-599747	146232		Order	Dictyochophyceae incertae sedis				
 368683	146232		Order	Florenciellales		1		
-368900	368683		Family	Florenciellales incertae sedis				
 591211	146232		Subclass	Pinguiophycidae				
 345508	591211		Order	Pinguiochrysidales		1		
 345509	345508		Family	Pinguiochrysidaceae		1		
@@ -1047,7 +1007,6 @@ taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct
 160583	160582		Family	Chattonellaceae		1		
 246828	160582		Family	Vacuolariaceae		1		
 591215	160581		Order	Raphidomonadales				
-391867	160581		Order	Raphidophyceae incertae sedis				
 590435	588641		Class	Picophagophyceae		1		
 345522	588641		Class	Synurophyceae		1		
 393287	345465		Class	Placidiophyceae				
