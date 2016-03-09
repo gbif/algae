@@ -1,0 +1,338 @@
+taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct	isMarine	isTerrestrial	isFreshwater
+5			Kingdom	Protozoa		1		
+493841	5		Subkingdom	Biciliata				
+146192	5		Phylum	Chrysomonada		1		
+146231	146192		Class	Pedinellophyceae		1		
+146202	5		Phylum	Dinomastigota		1		
+21005	5		Phylum	Dinophyta		1		
+146202		21005	Phylum	Dinomastigota		1		
+146221	5		Phylum	Discomitochondria		1		
+19538		146221	Phylum	Euglenophyta		1		
+146222		146221	Phylum	Flagellates		1		
+146228	146221		Class	Euglenida		1		
+21000		146228	Order	Euglenales		1		
+162996	146228		Family	Heteronematidae		1		
+163718	146228		Suborder	Sphenomonadina		1		
+163160	163718		Family	Sphenomonadidae		1		
+26	146221		Class	Kinetoplastida		1		
+178544		26	Order	Kinetoplastida				
+146229	146221		Class	Pseudociliata		1		
+582159	5		Subkingdom	Eozoa				
+582161	582159		Infrakingdom	Euglenozoa				
+536202	582161		Phylum	Euglenozoa				
+536193	536202		Class	Bodonophyceae				
+536194	536193		Order	Bodonales				
+536195	536193		Order	Karotomorphales				
+536196	536195		Family	Karotomorphaceae				
+582176	536202		Class	Diplonemea				
+582207	582176		Order	Diplonemida				
+493887	582207		Family	Rhynchopodaceae				
+582177	536202		Class	Euglenoidea				
+19539		582177	Class	Euglenophyceae		1		
+582199	582177		Subclass	Aphagia				
+582208	582199		Order	Rhabdomonadida				
+582200	582177		Subclass	Euglenia				
+582209	582200		Order	Euglenida				
+21001	582209		Family	Euglenaceae		1		
+162995		21001	Family	Euglenidae				
+162521	582209		Family	Petalomonadaceae				
+573995	582209		Family	Phacaceae				
+582210	582200		Order	Eutreptiida				
+17654		582210	Order	Eutreptiales		1		
+17788	582210		Family	Astasiaceae		1		
+17655	582210		Family	Eutreptiaceae		1		
+593330	582177		Subclass	Euglenoidea incertae sedis				
+582201	582177		Subclass	Peranemia				
+582211	582201		Order	Peranemida				
+21621	582211		Family	Peranemaceae		1		
+582212	582201		Order	Ploeotiida				
+582202	582177		Subclass	Petalomonadia				
+582213	582202		Order	Petalomonadida				
+19539	536202		Class	Euglenophyceae		1		
+146228		19539	Class	Euglenida		1		
+21000	19539		Order	Euglenales		1		
+162995	21000		Family	Euglenidae				
+17654	19539		Order	Eutreptiales		1		
+562565	536202		Class	Kinetoplastea				
+26		562565	Class	Kinetoplastida		1		
+593328	562565		Subclass	Kinetoplastea incertae sedis				
+562566	562565		Subclass	Metakinetoplastina				
+562574	562566		Order	Bodonida				
+582215	562566		Order	Eubodonida				
+536197	582215		Family	Bodonaceae				
+599743	582215		Family	Cryptobiaceae				
+582216	562566		Order	Neobodonida				
+582217	562566		Order	Parabodonida				
+22556	582217		Family	Bodonidae		1		
+562567	562566		Order	Trypanosomatida				
+562568	562567		Suborder	Trypanosomatina				
+387397	562568		Family	Trypanosomatidae		1	1	1
+582203	562565		Subclass	Prokinetoplastina				
+582214	582203		Order	Prokinetoplastida				
+582178	536202		Class	Postgaardea				
+582218	582178		Order	Postgaardida				
+536210	582159		Infrakingdom	Excavata				
+582163	536210		Phylum	Loukozoa				
+582179	582163		Class	Jakobea				
+582219	582179		Order	Jakobida				
+599667	582219		Family	Histionidae				
+599668	582219		Family	Jakobidae				
+582180	582163		Class	Malawimonadea				
+582220	582180		Order	Malawimonadida				
+562592	536210		Phylum	Metamonada				
+582164	562592		Subphylum	Anaeromonada				
+582181	582164		Class	Anaeromonadea				
+582221	582181		Order	Oxymonadida				
+582222	582181		Order	Trimastigida				
+562594	562592		Subphylum	Trichozoa				
+582173	562594		Superclass	Carpediemonadia				
+582182	582173		Class	Carpediemonadea				
+582223	582182		Order	Carpediemonadida				
+582174	562594		Superclass	Eopharyngia				
+562603	582174		Class	Retortamonadea		1	0	1
+562605	562603		Order	Retortamonadida		1	0	1
+562606	562605		Family	Retortamonadidae		1	0	0
+562609	582174		Class	Trepomonadea		1	0	1
+562604	562609		Subclass	Diplozoa		1	0	1
+562612	562604		Order	Distomatida		1	0	1
+562613	562612		Family	Enteromonadidae		1	0	0
+562616	562612		Family	Hexamitidae		1	0	1
+582224	562604		Order	Giardiida				
+582204	562609		Subclass	Enteromonadia				
+582225	582204		Order	Enteromonadida				
+582175	562594		Superclass	Parabasalia				
+562596	582175		Class	Trichomonadea		1	0	1
+582226	562596		Order	Lophomonadida				
+582227	562596		Order	Spirotrichonymphida				
+562597	562596		Order	Trichomonadida		1	0	1
+562598	562597		Family	Monocercomonadidae				
+582183	582175		Class	Trichonymphea				
+582228	582183		Order	Trichonymphida				
+451648	536210		Phylum	Percolozoa				
+582165	451648		Subphylum	Pharyngomonada				
+582184	582165		Class	Pharyngomonadea				
+582229	582184		Order	Pharyngomonadida				
+582166	451648		Subphylum	Tetramitia				
+451649	582166		Class	Heterolobosea				
+582230	451649		Order	Acrasida				
+591376	582230		Family	Acrasida incertae sedis				
+731103	582230		Family	Guttulinopsidae				
+1316	451649		Order	Schizopyrenida		1		
+599699	1316		Family	Tetramitaceae				
+21540	1316		Family	Vahlkampfiidae		1		
+582185	582166		Class	Lyromonadea				
+582231	582185		Order	Lyromonadida				
+582186	582166		Class	Percolatea				
+582232	582186		Order	Percolomonadida				
+582233	582186		Order	Pseudociliatida				
+163090	582233		Family	Stephanopogonidae				
+146222	5		Phylum	Flagellates		1		
+378496	146222		Order	Silicoflagellida		1		
+1283	5		Phylum	Granuloreticulosa		1		
+391855	5		Phylum	Haplosporidia				
+146194	5		Phylum	Haptomonada		1		
+22173	5		Phylum	Labyrinthulata		1		
+22191	22173		Class	Labyrinthulomycetes		1		
+22600	5		Phylum	Myxospora		1		
+146272	22600		Class	Actinomyxea		1		
+146273	22600		Class	Actinosporea		1		
+146234	5		Phylum	Phaeophycota		1		
+829	5		Phylum	Phaeophyta		1		
+730531	5		Phylum	Picozoa		1		
+730532	730531		Class	Picomonadea		1		
+730533	730532		Order	Picomonadida		1		
+730534	730533		Family	Picomonadidae		1		
+22718	5		Subkingdom	Protozoa incertae sedis		1		
+1279	5		Phylum	Rhizopoda		1		
+178768	1279		Class	Filosea				
+1280	1279		Class	Lobosa		1		
+9	5		Phylum	Sarcomastigophora		1		
+13	9		Subphylum	Mastigophora		1		
+147416	13		Class	Phytomastigophorea		1		
+147426	147416		Order	Chrysomonadida				
+147420	147416		Order	Cryptomonadida				
+150286	147420		Family	Cryptomonadidae				
+150288	147420		Family	Cyathomonadidae				
+147418	147416		Order	Dinoflagellida		1		
+162493	147418		Family	Dinophysidae		1		
+155552	147418		Family	Gymnodiniidae				
+150280	147418		Family	Lophodiniidae				
+150284	147418		Family	Oxytoxidae				
+150282	147418		Family	Peridiniidae				
+150278	147418		Family	Polykrikidae				
+178558	147418		Family	Pronoctilucidae				
+150274	147418		Family	Prorocentridae				
+147427	147416		Order	Heterochlorida				
+160465	147416		Order	Phytomastigophorea Incertae Sedis				
+147697	147416		Order	Prasinomonadina				
+162994	147697		Family	Prasinocladidae				
+147428	147416		Order	Prymnesiida				
+150290	147428		Family	Pontosphaeridae				
+147696	147416		Order	Volvocida				
+178975	147696		Family	Chlamidomonadidae				
+24	13		Class	Zoomastigophora		1		
+147698		24	Class	Zoomastigophorea				
+25	24		Order	Choanoflagellida		1	1	1
+105500	25		Family	Salpingoecidae		1		
+178544	24		Order	Kinetoplastida				
+22627	24		Order	Zoomastigophora incertae sedis		1		
+147698	13		Class	Zoomastigophorea				
+196831	9		Subphylum	Radiolaria				
+235747	196831		Class	Acantharea				
+172658	9		Subphylum	Sarcodina				
+582160	5		Subkingdom	Sarcomastigota				
+391848	582160		Phylum	Amoebozoa				
+428528	391848		Subphylum	Amoebozoa incertae sedis				
+761363	428528		Order	Cavosteliida				
+761365	761363		Family	Cavosteliida incertae sedis				
+761416	428528		Class	Dictyostelia				
+761417	761416		Family	Dictyostelia incertae sedis				
+761377	428528		Order	Fractovitelliida				
+761378	761377		Family	Fractovitelliida incertae sedis				
+761258	428528		Class	Gracilipodida				
+761259	761258		Family	Gracilipodida incertae sedis				
+761387	428528		Class	Myxogastria				
+761388	761387		Family	Myxogastria incertae sedis				
+761370	428528		Order	Protosporangiida				
+761375	761370		Family	Protosporangiida incertae sedis				
+761372	761370		Family	Protosporangiidae				
+761359	428528		Order	Protosteliida				
+761360	761359		Family	Protosteliida incertae sedis				
+761381	428528		Order	Schizoplasmodiida				
+761382	761381		Family	Schizoplasmodiida incertae sedis				
+582169	391848		Subphylum	Conosa				
+582171	582169		Infraphylum	Archamoebae				
+761254	582171		Family	Archamoebae incertae sedis				
+582190	582171		Class	Archamoebea				
+582242	582190		Order	Mastigamoebida				
+582243	582190		Order	Pelobiontida				
+761250	582171		Family	Entamoebidae				
+761252	582171		Family	Mastigamoebaea				
+582172	582169		Infraphylum	Mycetozoa				
+582192	582172		Class	Myxogastrea				
+582246	582192		Order	Echinosteliida				
+582247	582192		Order	Liceida				
+582248	582192		Order	Parastelida				
+582249	582192		Order	Physarida				
+582250	582192		Order	Stemonitida				
+582251	582192		Order	Trichiida				
+582191	582172		Class	Stelamoeba				
+582244	582191		Order	Dictyosteliida				
+582245	582191		Order	Protostelida				
+582193	582172		Class	Variosea				
+582252	582193		Order	Holomastigaida				
+582253	582193		Order	Phalansteriida				
+582254	582193		Order	Varipodida				
+582168	391848		Subphylum	Lobosa				
+582189	582168		Class	Discosea				
+582205	582189		Subclass	Flabellinia				
+451644	582205		Order	Dactylopodida				
+761216	451644		Family	Dactylopodida incertae sedis				
+1329	451644		Family	Paramoebidae		1		
+22725	451644		Family	Vexilliferidae		1		
+391850	582205		Order	Himatismenida				
+391851	391850		Family	Himatismenida incertae sedis				
+582237	582205		Order	Pellitida				
+761212	582237		Family	Pellitida incertae sedis				
+582238	582205		Order	Stygamoebida				
+761235	582238		Family	Stygamoebida incertae sedis				
+1320	582205		Order	Trichosida		1		
+136751	1320		Family	Trichosidae		1		
+451643	582205		Order	Vannellida				
+761228	451643		Family	Vannellida incertae sedis				
+22724	451643		Family	Vannellidae		1		
+582206	582189		Subclass	Longamoebia				
+451641	582206		Order	Centramoebida				
+1326	451641		Suborder	Acanthopodina		1		
+1330	1326		Family	Acanthamoebidae		1		
+761248	451641		Family	Centramoebida incertae sedis				
+582240	582206		Order	Dermamoebida				
+761241	582240		Family	Dermamoebida incertae sedis				
+582241	582206		Order	Thecamoebida				
+761244	582241		Family	Thecamoebida incertae sedis				
+1321	582241		Family	Thecamoebidae		1		
+593334	582168		Class	Lobosa incertae sedis				
+146309	593334		Family	Hyalodiscidae		1		
+391842	593334		Family	Pellitidae				
+582188	582168		Class	Tubulinea				
+163072		582188	Class	Lobosea				
+1317	582188		Order	Arcellinida		1		
+136731	1317		Suborder	Arcellina		1		
+136734	136731		Family	Arcellidae		1		
+761163	136731		Family	Arcellina incertae sedis				
+136735	136731		Family	Microchlamyiidae		1		
+761202	1317		Family	Arcellinida incertae sedis				
+136732	1317		Suborder	Difflugina		1		
+136736	136732		Family	Centropyxidae		1		
+136737	136732		Family	Difflugiidae		1		
+761166	136732		Family	Difflugina incertae sedis				
+136738	136732		Family	Hyalospheniidae		1		
+136739	136732		Family	Lesquereusiidae		1		
+136740	136732		Family	Trigonopyxidae		1		
+136733	1317		Suborder	Phryganellina		1		
+136741	136733		Family	Cryptodifflugiidae		1		
+136742	136733		Family	Phryganellidae		1		
+582235	582188		Order	Echinamoebida				
+761185	582235		Family	Echinamoebida incertae sedis				
+451642	582188		Order	Euamoebida				
+22720	451642		Family	Amoebidae		1		
+761147	451642		Family	Euamoebida incertae sedis				
+1327	451642		Family	Hartmannellidae		1		
+1407	582188		Order	Leptomyxida		1		
+1328	1407		Family	Flabellulidae		1		
+761160	1407		Family	Leptomyxida incertae sedis				
+1705	1407		Family	Leptomyxidae		1		
+582236	582188		Order	Nolandida				
+761183	582236		Family	Nolandida incertae sedis				
+163072	391848		Class	Lobosea				
+1280		163072	Class	Lobosa		1		
+1313	163072		Subclass	Gymnamoebia		1		
+1315	1313		Order	Amoebida		1		
+1325	1315		Suborder	Conopodina		1		
+1324	1315		Suborder	Flabellina		1		
+766652		1324	Genus	Samla		1		
+1322	1315		Suborder	Thecina		1		
+1323	1315		Suborder	Tubulina		1		
+582167	391848		Subphylum	Protamoebae				
+582187	582167		Class	Breviatea				
+582234	582187		Order	Breviatida				
+582162	582160		Phylum	Apusozoa				
+582194	582162		Class	Diphyllatea				
+582255	582194		Order	Diphylleida				
+582195	582162		Class	Hilomonadea				
+582256	582195		Order	Micronucleariida				
+582257	582195		Order	Planomonadida				
+582196	582162		Class	Thecomonadea				
+103423	582196		Order	Apusomonadida		1		
+103424	103423		Family	Apusomonadidae		1		
+582258	582196		Order	Mantomonadida				
+562870	582160		Phylum	Choanozoa		1	0	1
+153494		562870	Phylum	Craspedophyta				
+562871	562870		Subphylum	Choanofila		1	0	1
+580116	562871		Class	Choanoflagellatea		1		
+153495		580116	Class	Craspedophyceae				
+580117	580116		Order	Acanthoecida		1		
+573993	580117		Family	Acanthoecaceae				
+105498	580117		Family	Acanthoecidae		1		
+707553	580117		Family	Stephanoecidae				
+581514	580116		Order	Craspedida				
+449205	581514		Family	Codonosigaceae				
+105499	581514		Family	Codosigidae		1		
+105500		105499	Family	Salpingoecidae		1		
+578524	581514		Family	Salpingoecaceae				
+582197	562871		Class	Filasterea				
+582261	582197		Order	Ministeriida				
+391862	562871		Class	Ichthyosporea		1	0	1
+582259	391862		Order	Aphelidida				
+582260	391862		Order	Corallochytida				
+391863	391862		Order	Ichthyosporea incertae sedis				
+562873	391862		Order	Ichthyosporida		1	0	1
+562874	562873		Family	Dermocystidae		1	0	1
+582170	562870		Subphylum	Cristidiscoidia				
+582198	582170		Class	Cristidiscoidea				
+582262	582198		Order	Fonticulida				
+582263	582198		Order	Nucleariida				
+178852	582263		Family	Nucleariidae				
+707609	582198		Order	Rozellida				
+707610	707609		Family	Rozellidae				
+148740	5		Subkingdom	Stramenopila		1		

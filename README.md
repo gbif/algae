@@ -1,19 +1,8 @@
 # algae
-Algae classification using major Linnean ranks from kingdom -> family only.
-Synonyms and english vernacular names are included.
+Algae classification using major Linnean ranks from kingdom -> order/family only.
+Synonyms are included.
 
-# Tree
-Kingdom
-  Phylum     -phyta
-    Class     -phyceae
-      Order    -ales
-        Family  -ceae
-Protozoa 
-  Euglenophyta 
-    Euglenophyceae @Ruggiero [Euglenoidina,Euglenoidea,Euglenida,Euglenozoa,Euglenoida]
-Plantae
-Chromista
-
+This is mainly to amend the serious gaps found in the current Catalog of Life.
 
 # Classifications in use
 ### CoL
@@ -71,10 +60,10 @@ As we use the entire CoL classification we primarily aim at filling in the gaps 
     - Sulcozoa
 
 ### ITIS
-Classification down to families: [plantae](itis-plantae.md), [chromista](itis-chromista.md) & [protozoa](itis-protozoa.md)
+Classification down to families: [plantae](itis/itis-plantae.md), [chromista](itis/itis-chromista.md) & [protozoa](itis/itis-protozoa.md)
 
 ### WoRMS
-Classification down to orders: [plantae](worms-3.txt), [chromista](itis-7.txt) & [protozoa](itis-5.txt)
+Classification down to orders: [plantae](worms/worms-3.txt), [chromista](worms/worms-7.txt) & [protozoa](worms/worms-5.txt)
 
 ### Algaebase
 Hard to access and the bad guy who requested removal from CoL and prevends WoRMS from sharing

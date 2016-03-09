@@ -1,0 +1,636 @@
+taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct	isMarine	isTerrestrial	isFreshwater
+3			Kingdom	Plantae		1		
+147480	3		Phylum	Bryophyta				
+368664	3		Phylum	Charophyta		1		
+146217	368664		Class	Charophyceae		1		
+179048	146217		Order	Charales		1		
+599587	179048		Family	Aclistocharaceae				
+179049	179048		Family	Characeae		1		
+599599	179048		Family	Clavatoraceae				
+599600	179048		Family	Porocharaceae				
+422893	146217		Order	Coleochaetales				
+422894	422893		Family	Coleochaetaceae				
+494033	368664		Class	Charophyta incertae sedis				
+368673	368664		Class	Klebsormidiophyceae		1		
+22970	368673		Order	Klebsormidiales		1		
+572034	22970		Family	Elakatotrichaceae				
+368782	22970		Family	Klebsormidiaceae		1		
+143752	22970		Family	Stichococcaceae		1		
+599596	368664		Class	Mesostigmatophyceae				
+599597	599596		Order	Chaetosphaeridiales				
+599598	599597		Family	Chaetosphaeridiaceae				
+599670	599596		Order	Mesostigmatales				
+599671	599670		Family	Mesostigmataceae				
+162685	368664		Class	Zygnematophyceae				
+178967	162685		Order	Conjugales				
+162693	162685		Order	Zygnematales				
+178967		162693	Order	Conjugales				
+573992	162693		Family	Closteriaceae				
+162724	162693		Family	Desmidiaceae				
+599730	162693		Family	Mesotaeniaceae				
+493902	162693		Family	Peniaceae				
+248136	162693		Family	Zygnemataceae				
+368665	3		Phylum	Chlorarachniophyta		1		
+368674	368665		Class	Chlorarachniophyceae		1		
+368679	368674		Order	Chlorarachniales		1		
+801	3		Phylum	Chlorophyta		1		
+368675	801		Class	Bryopsidophyceae		1		
+802	801		Class	Chlorophyceae		1		
+803	802		Order	Acrosiphoniales		1		
+22964	802		Order	Caulerpales		1		
+368680	802		Order	Chaetopeltidales		1		
+157128	368680		Family	Chaetopeltidaceae		1		
+18608	802		Order	Chaetophorales		1		
+558962	18608		Family	Aphanochaetaceae				
+143675	18608		Family	Chaetophoraceae		1		
+599595	18608		Family	Schizomeridaceae				
+732333	802		Order	Chlamydomonadales				
+17111		732333	Order	Chlorococcales		1		
+599605	732333		Family	Actinochloridaceae				
+599606	732333		Family	Characiosiphonaceae				
+732334	732333		Family	Chlamydomonadales incertae sedis				
+493880	732333		Family	Chlorochytriaceae				
+143676	732333		Family	Chlorococcaceae		1		
+577656	732333		Family	Chlorosarcinaceae				
+163102	732333		Family	Coccomyxaceae				
+599607	732333		Family	Cylindrocapsaceae				
+178622	732333		Family	Dictyosphaeriaceae				
+143677	732333		Family	Endosphaeraceae		1		
+558964	732333		Family	Golenkiniaceae				
+599608	732333		Family	Hormotilaceae				
+599609	732333		Family	Hypnomonadaceae				
+163476	732333		Family	Micractiniaceae				
+599610	732333		Family	Protosiphonaceae				
+599611	732333		Family	Rhopalosolenaceae				
+599612	732333		Family	Scotiellocystoidaceae				
+599613	732333		Family	Sphaerodictyaceae				
+447747	732333		Family	Sphaeropleaceae				
+576712	732333		Family	Treubariaceae				
+17111	802		Order	Chlorococcales		1		
+21243	802		Order	Chlorocystidales		1		
+143678	21243		Family	Chlorocystidaceae		1		
+577868	802		Order	Chlorophyceae incertae sedis				
+599614	577868		Family	Chlorangiopsidaceae				
+599615	577868		Family	Tetracystaceae				
+22965	802		Order	Codiales		1		
+599636	802		Order	Dunaliellales				
+599637	599636		Family	Asteromonadaceae				
+599638	599636		Family	Raciborskiellaceae				
+22971	802		Order	Microsporales		1		
+577721	802		Order	Oedogoniales				
+577722	577721		Family	Oedogoniaceae				
+21875	802		Order	Phaeophilales		1		
+590352	802		Order	Protococcales				
+558965	802		Order	Sphaeropleales				
+22971		558965	Order	Microsporales		1		
+558966	558965		Family	Ankistrodesmaceae				
+599704	558965		Family	Bracteacoccaceae				
+836369	558965		Family	Bracteamorphaceae				
+164096	558965		Family	Characiaceae				
+160560	558965		Family	Hydrodictyaceae				
+143757	558965		Family	Microsporaceae		1		
+558971	558965		Family	Neochloridaceae				
+493879	558965		Family	Radiococcaceae				
+836370	558965		Family	Rotundellaceae				
+160541	558965		Family	Scenedesmaceae		1		
+599705	558965		Family	Selenastraceae				
+599706	558965		Family	Sphaeropleales incertae sedis				
+836371	558965		Family	Tumidellaceae				
+18537	802		Order	Tetrasporales		1		
+599715	18537		Family	Characiochloridaceae				
+599716	18537		Family	Chlorangiellaceae				
+178922	18537		Family	Gloeocystaceae				
+599717	18537		Family	Gloeodendraceae				
+248168	18537		Family	Palmellaceae				
+368891	18537		Family	Palmellopsidaceae		1		
+599718	18537		Family	Sphaerocystidaceae				
+143787	18537		Family	Tetrasporaceae		1		
+18526	802		Order	Volvocales		1		
+590352		18526	Order	Protococcales				
+147696		18526	Order	Volvocida				
+367249	18526		Family	Carteriaceae				
+178973	18526		Family	Chlamydomonadaceae		1		
+178975		178973	Family	Chlamidomonadidae				
+599728	18526		Family	Dangeardinellaceae				
+368897	18526		Family	Dunaliellaceae		1		
+577668	18526		Family	Goniaceae				
+428521	18526		Family	Haematococcaceae				
+162734	18526		Family	Phacotaceae				
+163120	18526		Family	Spondylomoraceae				
+578344	18526		Family	Tetrabaenaceae				
+143798	18526		Family	Volvocaceae		1		
+599729	18526		Family	Volvocales incertae sedis				
+369188	801		Class	Chlorophyta incertae sedis				
+493835	801		Class	Mamiellophyceae				
+493836	493835		Order	Dolichomastigales				
+493886	493836		Family	Dolichomastigaceae				
+17662	493835		Order	Mamiellales		1		
+493889	17662		Family	Bathycoccaceae				
+17663	17662		Family	Mamiellaceae		1		
+578238	17662		Family	Monomastigaceae				
+368676	801		Class	Nephroselmidophyceae		1		
+368697	368676		Order	Nephroselmidales		1		
+368875	368697		Family	Nephroselmidaceae		1		
+368677	801		Class	Pedinophyceae		1		
+146219	368677		Order	Pedinomonadales		1		
+146218	146219		Family	Pedinomonadaceae		1		
+368698	368677		Order	Scourfieldiales		1		
+368888	368698		Family	Scourfieldiaceae		1		
+368678	801		Class	Pleurastrophyceae		1		
+368705	368678		Order	Pleurastrales		1		
+368881	368705		Family	Pleurastraceae		1		
+17329	801		Class	Prasinophyceae		1		
+147697		17329	Order	Prasinomonadina				
+17328		17329	Phylum	Prasinophyta		1		
+17666	17329		Order	Chlorodendrales		1		
+17667	17666		Family	Chlorodendraceae		1		
+21004	17666		Family	Halosphaeraceae		1		
+172812	17329		Order	Halosphaerales				
+172813	172812		Family	Pterospermataceae				
+368706	17329		Order	Prasinococcales		1		
+368882	368706		Family	Prasinococcaceae		1		
+599687	17329		Order	Prasinophyceae incertae sedis				
+368707	17329		Order	Pseudoscourfieldiales		1		
+22613	368707		Family	Pycnococcaceae		1		
+17330	17329		Order	Pyramimonadales		1		
+162924	17330		Family	Polyblepharidaceae		1		
+368883	17330		Family	Pyramimonadaceae		1		
+160573	801		Class	Trebouxiophyceae		1		
+160574	160573		Order	Chlorellales				
+160575	160574		Family	Chlorellaceae		1		
+599601	160574		Family	Chlorellales incertae sedis				
+599602	160574		Family	Ctenocladaceae				
+599603	160574		Family	Eremosphaeraceae				
+558970	160574		Family	Koliellaceae				
+599604	160574		Family	Leptosiraceae				
+160586	160573		Order	Microthamniales				
+599672	160586		Family	Microthamniaceae				
+493837	160573		Order	Oocystales				
+160589	493837		Family	Oocystaceae		1		
+820	160573		Order	Prasiolales		1		
+143771	820		Family	Prasiolaceae		1		
+599688	820		Family	Prasiolales incertae sedis				
+599721	160573		Order	Trebouxiales				
+493881	599721		Family	Botryococcaceae				
+599722	599721		Family	Trebouxiaceae				
+576703	160573		Order	Trebouxiophyceae ordo incertae sedis				
+576704	576703		Family	Trebouxiophyceae incertae sedis				
+146216	801		Class	Ulvophyceae		1		
+368675		146216	Class	Bryopsidophyceae		1		
+808	146216		Order	Bryopsidales		1		
+143666	808		Family	Bryopsidaceae		1		
+143668	808		Family	Caulerpaceae		1		
+143669	808		Family	Chaetosiphonaceae		1		
+143689	808		Family	Codiaceae		1		
+143667	808		Family	Derbesiaceae		1		
+368714	808		Family	Dichotomosiphonaceae		1		
+368715	808		Family	Halimedaceae		1		
+368716	808		Family	Ostreobiaceae		1		
+368717	808		Family	Pseudocodiaceae		1		
+599594	808		Family	Rhipiliaceae				
+143670	808		Family	Udoteaceae		1		
+813	146216		Order	Cladophorales		1		
+143686	813		Family	Anadyomenaceae		1		
+143687	813		Family	Cladophoraceae		1		
+547536	813		Family	Okellyaceae				
+707601	813		Family	Pithophoraceae				
+707607	813		Family	Pseudocladophoraceae				
+143688	813		Family	Witrockiellaceae		1		
+325414	146216		Order	Codiolales		1		
+325415	325414		Family	Codiolaceae		1		
+18815	146216		Order	Dasycladales		1		
+143702	18815		Family	Dasycladaceae		1		
+143703	18815		Family	Polyphysaceae		1		
+493838	146216		Order	Oltmannsiellopsidales				
+493892	493838		Family	Oltmannsiellopsidaceae				
+22974	146216		Order	Siphonocladales		1		
+143778	22974		Family	Boodleaceae		1		
+143779	22974		Family	Siphonocladaceae		1		
+143780	22974		Family	Valoniaceae		1		
+422888	146216		Order	Trentepohliales				
+422889	422888		Family	Trentepohliaceae				
+824	146216		Order	Ulotrichales		1		
+143789	824		Family	Borodinellaceae		1		
+380901	824		Family	Collinsiellaceae				
+416376	824		Family	Gloeotilaceae				
+196248	824		Family	Gomontiaceae		1		
+143790	824		Family	Ulotrichaceae		1		
+827	146216		Order	Ulvales		1		
+493901	827		Family	Bolbocoleonaceae				
+143791	827		Family	Capsosiphonaceae		1		
+599725	827		Family	Cloniophoraceae				
+368895	827		Family	Gayraliaceae		1		
+368896	827		Family	Jaoaceae		1		
+143792	827		Family	Kornmanniaceae		1		
+143793	827		Family	Monostromataceae		1		
+143764	827		Family	Phaeophilaceae		1		
+143794	827		Family	Ulvaceae		1		
+599726	827		Family	Ulvales incertae sedis				
+143795	827		Family	Ulvellaceae		1		
+599727	146216		Order	Ulvophyceae incertae sedis				
+17166	3		Phylum	Chrysophyta		1		
+153494	3		Phylum	Craspedophyta				
+153495	153494		Class	Craspedophyceae				
+19538	3		Phylum	Euglenophyta		1		
+599656	3		Phylum	Glaucophyta				
+599657	599656		Class	Glaucophyceae				
+599658	599657		Order	Glaucocystales				
+599659	599658		Family	Glaucocystaceae				
+742162	3		Phylum	Marchantiophyta				
+426113	742162		Subdivision	Marchantiophytina				
+426114	426113		Class	Marchantiopsida				
+426115	426114		Subclass	Jungermanniidae				
+426116	426115		Order	Metzgeriales				
+426117	426116		Family	Pallaviciniaceae				
+503066	3		Phylum	Plantae incertae sedis				
+17328	3		Phylum	Prasinophyta		1		
+21002	3		Phylum	Prymnesiophyta		1		
+234484	3		Phylum	Pteridophyta				
+596327	234484		Subdivision	Pteridophytina				
+425736	596327		Class	Equisetopsida				
+147482	425736		Subclass	Bryidae				
+426092	147482		Order	Bryales				
+426093	426092		Family	Bryaceae				
+382468	147482		Order	Dicranales				
+382469	382468		Family	Dicranaceae				
+426099	382468		Family	Ditrichaceae				
+147484	147482		Order	Grimmiales				
+147489	147484		Family	Grimmiaceae				
+292805	147482		Order	Hypnales				
+292806	292805		Family	Amblystegiaceae				
+426096	292805		Family	Hypnaceae				
+292674	147482		Order	Isobryales				
+292675	292674		Family	Fontinalaceae				
+147485	147482		Order	Orthotrichales				
+147486	147485		Family	Orthotrichaceae				
+147483	147482		Order	Pottiales				
+147500	147483		Family	Pottiaceae				
+426108	147482		Order	Thuidales				
+426109	426108		Family	Thuidiaceae				
+450493	425736		Subclass	Equisetidae				
+425737	450493		Order	Equisetales				
+425738	425737		Family	Equisetaceae				
+596330	596327		Class	Polypodiopsida				
+449899	596330		Subclass	Polypodiidae				
+234486	449899		Order	Polypodiales		1		
+426031	234486		Family	Aspleniaceae				
+234487	234486		Family	Pteridaceae		1		
+596329	596327		Class	Psilotopsida				
+450775	596329		Subclass	Ophioglossidae				
+425897	450775		Order	Ophioglossales				
+425898	425897		Family	Ophioglossaceae				
+182729	3		Phylum	Rhodophycota				
+852	3		Phylum	Rhodophyta		1		
+182729		852	Phylum	Rhodophycota				
+599624	852		Subdivision	Cyanidophytina				
+599625	599624		Class	Cyanidiophyceae				
+599626	599625		Order	Cyanidiales				
+599627	599626		Family	Cyanidiaceae				
+599628	599626		Family	Galdieriaceae				
+493826	852		Subdivision	Eurhodophytina				
+368668	493826		Class	Bangiophyceae		1		
+856	368668		Subclass	Bangiophycidae		1		
+857	856		Order	Bangiales		1		
+143664	857		Family	Bangiaceae		1		
+836358	857		Family	Granufilaceae				
+21292	856		Order	Goniotrichales		1		
+143746	21292		Family	Goniotricaceae		1		
+143747	21292		Family	Goniotrichaceae		1		
+143746		143747	Family	Goniotricaceae		1		
+368670	493826		Class	Florideophyceae		1		
+854		368670	Subclass	Florideophycidae		1		
+368686	368670		Subclass	Ahnfeltiophycidae		1		
+146312	368686		Order	Ahnfeltiales		1		
+146313	146312		Family	Ahnfeltiaceae		1		
+368687	368670		Subclass	Corallinophycidae		1		
+15308	368687		Order	Corallinales		1		
+143691	15308		Family	Corallinaceae		1		
+368755	15308		Family	Hapalidiaceae		1		
+143692	15308		Family	Sporolithaceae		1		
+368688	368687		Order	Rhodogorgonales		1		
+368886	368688		Family	Rhodogorgonaceae		1		
+493888	368670		Order	Florideophyceae incertae sedis				
+368689	368670		Subclass	Hildenbrandiophycidae		1		
+146316	368689		Order	Hildenbrandiales		1		
+143750	146316		Family	Hildenbrandiaceae		1		
+368690	368670		Subclass	Nemaliophycidae		1		
+836376	368690		Order	Entwisleiales				
+836377	836376		Family	Entwisleiaceae				
+21305	368690		Order	Nemaliales		1		
+196241	21305		Family	Chaetangiaceae				
+143758	21305		Family	Galaxauraceae		1		
+196242	21305		Family	Helminthocladiaceae				
+143759	21305		Family	Liagoraceae		1		
+368873	21305		Family	Scinaiaceae		1		
+599695	368690		Order	Rhodachlyales				
+599696	599695		Family	Rhodachlyaceae				
+196243	368670		Subclass	Rhodymeniophycidae		1		
+143661	196243		Family	Acrochaetiaceae		1		
+146311	196243		Order	Acrochaetiales		1		
+368691	196243		Order	Acrosymphytales		1		
+143693	368691		Family	Acrosymphytaceae		1		
+493829	196243		Order	Balbianiales				
+493874	493829		Family	Balbianiaceae				
+368692	196243		Order	Balliales		1		
+368711	368692		Family	Balliaceae		1		
+368693	196243		Order	Batrachospermales		1		
+493875	368693		Family	Batrachospermaceae				
+368712	368693		Family	Lemaneaceae		1		
+599593	368693		Family	Psilosiphonaceae				
+146314	196243		Order	Bonnemaisoniales		1		
+143665	146314		Family	Bonnemaisoniaceae		1		
+143760	146314		Family	Naccariaceae		1		
+860	196243		Order	Ceramiales		1		
+493878	860		Family	Callithamniaceae				
+143671	860		Family	Ceramiaceae		1		
+599744	860		Family	Ceramiales incertae sedis				
+143672	860		Family	Dasyaceae		1		
+143673	860		Family	Delesseriaceae		1		
+493876	860		Family	Inkyuleeaceae				
+143674	860		Family	Rhodomelaceae		1		
+368748	860		Family	Sarcomeniaceae		1		
+368751	860		Family	Spyridiaceae		1		
+493877	860		Family	Wrangeliaceae				
+172843	196243		Order	Colaconematales		1		
+172844	172843		Family	Colaconemataceae		1		
+146315	196243		Order	Gelidiales		1		
+143726	146315		Family	Gelidiaceae		1		
+196224	146315		Family	Gelidiellaceae		1		
+368765	146315		Family	Pterocladiaceae		1		
+871	196243		Order	Gigartinales		1		
+196269	871		Family	Acrotylaceae		1		
+368766	871		Family	Areschougiaceae		1		
+368767	871		Family	Blinksiaceae		1		
+143727	871		Family	Calosiphoniaceae		1		
+368768	871		Family	Catenellopsidaceae		1		
+143728	871		Family	Caulacanthaceae		1		
+368769	871		Family	Chondriellaceae		1		
+836359	871		Family	Chondrymeniaceae				
+143729	871		Family	Choreocolacaceae		1		
+196225	871		Family	Corynocystaceae		1		
+368770	871		Family	Crossocarpaceae		1		
+143730	871		Family	Cruoriaceae		1		
+368771	871		Family	Cubiculosporaceae		1		
+143731	871		Family	Cystocloniaceae		1		
+196226	871		Family	Dicranemataceae		1		
+143695	871		Family	Dumontiaceae		1		
+368772	871		Family	Endocladiaceae		1		
+143732	871		Family	Furcellariaceae		1		
+325416	871		Family	Gainiaceae		1		
+143733	871		Family	Gigartinaceae		1		
+143696	871		Family	Gloiosiphoniaceae		1		
+143734	871		Family	Haemeschariaceae		1		
+143735	871		Family	Hypneaceae		1		
+143698	871		Family	Kallymeniaceae		1		
+368773	871		Family	Mychodeaceae		1		
+368774	871		Family	Mychodeophyllaceae		1		
+368775	871		Family	Nizymeniaceae		1		
+143737	871		Family	Petrocelidaceae		1		
+196227	871		Family	Peyssonnelliaceae				
+196228	871		Family	Phacelocarpaceae		1		
+143738	871		Family	Phyllophoraceae		1		
+143737		143738	Family	Petrocelidaceae		1		
+143739	871		Family	Polyidaceae		1		
+368776	871		Family	Pseudoanemoniaceae		1		
+143700	871		Family	Rhizophyllidaceae		1		
+143740	871		Family	Rissoellaceae		1		
+143741	871		Family	Sarcodiaceae		1		
+599655	871		Family	Schmiziellaceae				
+143744	871		Family	Solieriaceae		1		
+143784	871		Family	Sphaerococcaceae		1		
+368777	871		Family	Stictosporaceae		1		
+368778	871		Family	Tichocarpaceae		1		
+143745	871		Family	Wurdemanniaceae		1		
+876	196243		Order	Gracilariales		1		
+143748	876		Family	Gracilariaceae		1		
+143749	876		Family	Pterocladiophilaceae		1		
+162592	196243		Order	Halymeniales		1		
+143697	162592		Family	Halymeniaceae		1		
+836353	162592		Family	Halymeniales incertae sedis				
+599665	162592		Family	Tsengiaceae				
+368694	196243		Order	Nemastomatales		1		
+143736	368694		Family	Nemastomataceae		1		
+143742	368694		Family	Schizymeniaceae		1		
+878	196243		Order	Palmariales		1		
+493894	878		Family	Meiodiscaceae				
+143761	878		Family	Palmariaceae		1		
+143762	878		Family	Rhodophysemataceae		1		
+143763	878		Family	Rhodothamniellaceae		1		
+493830	196243		Order	Peyssonneliales				
+143699	493830		Family	Peyssonneliaceae		1		
+196227		143699	Family	Peyssonnelliaceae				
+368695	196243		Order	Pihiellales		1		
+368880	368695		Family	Pihiellaceae		1		
+146317	196243		Order	Plocamiales		1		
+143765	146317		Family	Plocamiaceae		1		
+15241	196243		Order	Rhodymeniales		1		
+143773	15241		Family	Champiaceae		1		
+143774	15241		Family	Faucheaceae		1		
+493899	15241		Family	Fryeellaceae				
+493898	15241		Family	Hymenocladiaceae				
+143775	15241		Family	Lomentariaceae		1		
+143776	15241		Family	Rhodymeniaceae		1		
+493900	15241		Family	Rhodymeniales incertae sedis				
+368696	196243		Order	Sebdeniales		1		
+143743	368696		Family	Sebdeniaceae		1		
+381050	196243		Order	Thoreales				
+381051	381050		Family	Thoreaceae				
+493831	852		Subdivision	Metarhodophytina				
+368669	493831		Class	Compsopogonophyceae		1		
+22966	368669		Order	Compsopogonales		1		
+493884	22966		Family	Boldiaceae				
+143690	22966		Family	Compsopogonaceae		1		
+146320	368669		Order	Erythropeltidales		1		
+143721	146320		Family	Erythropeltidaceae		1		
+599650	146320		Family	Erythropeltidales incertae sedis				
+162774	146320		Family	Erythrotrichiaceae		1		
+22973	368669		Order	Rhodochaetales		1		
+143772	22973		Family	Rhodochaetaceae		1		
+21263	852		Class	Rhodophyceae		1		
+854	21263		Subclass	Florideophycidae		1		
+22967	854		Order	Cryptonemiales		1		
+143694	22967		Family	Corynomorphaceae		1		
+196197	22967		Family	Cryptonemiaceae				
+22975	854		Order	Sphaerococcales		1		
+369193	852		Class	Rhodophyta incertae sedis				
+368666	852		Subdivision	Rhodophytina		1		
+493832	368666		Class	Porphyridiophyceae				
+15324	493832		Order	Porphyridiales		1		
+143766	15324		Family	Phragmonemataceae		1		
+143767	15324		Family	Porphyridiaceae		1		
+368671	368666		Class	Rhodellophyceae		1		
+493833	368671		Order	Dixoniellales				
+493885	493833		Family	Dixoniellaceae				
+599660	368671		Order	Glaucosphaerales				
+599661	599660		Family	Glaucosphaeraceae				
+493834	368671		Order	Rhodellales				
+493897	493834		Family	Rhodellaceae				
+368672	368666		Class	Stylonematophyceae		1		
+599697	368672		Order	Rufusiales				
+599698	599697		Family	Rufusiaceae				
+368708	368672		Order	Stylonematales		1		
+368890	368708		Family	Stylonemataceae		1		
+596326	3		Phylum	Tracheophyta		1	1	1
+153491	596326		Order	Alismatales				
+715984	153491		Family	Alismataceae				
+425928	153491		Family	Araceae				
+715971		425928	Family	Lemnaceae				
+143768	153491		Family	Cymodoceaceae		1		
+143751	153491		Family	Hydrocharitaceae		1		
+414830	153491		Family	Juncaginaceae				
+715971	153491		Family	Lemnaceae				
+143769	153491		Family	Posidoniaceae		1		
+196239	153491		Family	Potamogetonaceae				
+416220		196239	Family	Zannichelliaceae				
+234029	153491		Family	Ruppiaceae				
+416220	153491		Family	Zannichelliaceae				
+143770	153491		Family	Zosteraceae		1		
+414686	596326		Order	Apiales				
+414761	414686		Family	Apiaceae				
+414687	596326		Order	Aquifoliales				
+414764	414687		Family	Aquifoliaceae				
+234448	596326		Order	Arecales		1		
+234449	234448		Family	Arecaceae		1		
+414699	596326		Order	Asparagales				
+414752	414699		Family	Agavaceae				
+414755	414699		Family	Amaryllidaceae				
+425957	414699		Family	Asparagaceae				
+414752		425957	Family	Agavaceae				
+414854	414699		Family	Orchidaceae				
+234044	596326		Order	Asterales				
+234045	234044		Family	Asteraceae			1	
+867905	234044		Family	Compositae			1	
+234045		867905	Family	Asteraceae			1	
+414820	234044		Family	Goodeniaceae				
+382442	596326		Family	Boraginaceae			1	
+382436	596326		Order	Brassicales				
+559817	382436		Family	Bataceae				
+382437	382436		Family	Brassicaceae				
+196217	596326		Order	Caryophyllales				
+196218	196217		Family	Aizoaceae				
+414754	196217		Family	Amaranthaceae				
+382483		414754	Family	Chenopodiaceae				
+414774	196217		Family	Cactaceae				
+395046	196217		Family	Caryophyllaceae				
+382483	196217		Family	Chenopodiaceae				
+414863	196217		Family	Phytolaccaceae				
+182767	196217		Family	Plumbaginaceae		1		
+382464	196217		Family	Polygonaceae				
+414870	196217		Family	Portulacaceae				
+414899	196217		Family	Tamaricaceae				
+414694	596326		Order	Celastrales				
+414781	414694		Family	Celastraceae				
+425987		414781	Family	Parnassiaceae				
+425987	414694		Family	Parnassiaceae				
+394604	596326		Order	Ceratophyllales				
+394609	394604		Family	Ceratophyllaceae				
+414690	596326		Order	Cucurbitales				
+414795	414690		Family	Cucurbitaceae				
+426049	596326		Order	Dipsacales				
+426050	426049		Family	Adoxaceae				
+413965	596326		Order	Ericales				
+425994	413965		Family	Ericaceae				
+488035	413965		Family	Lecythidaceae				
+235067	413965		Family	Myrsinaceae		1		
+235074	413965		Family	Pellicieraceae		1		
+414871	413965		Family	Primulaceae				
+235067		414871	Family	Myrsinaceae		1		
+426040		414871	Family	Samolaceae				
+426040	413965		Family	Samolaceae				
+414884	413965		Family	Sapotaceae				
+413966	413965		Family	Tetrameristaceae				
+235074		413966	Family	Pellicieraceae		1		
+414691	596326		Order	Fabales				
+414814	414691		Family	Fabaceae				
+425901	414691		Family	Polygalaceae				
+414897	414691		Family	Surianaceae				
+414692	596326		Order	Fagales				
+414779	414692		Family	Casuarinaceae				
+414848	414692		Family	Myricaceae				
+414689	596326		Order	Gentianales				
+414762	414689		Family	Apocynaceae				
+414816	414689		Family	Gentianaceae				
+235102	414689		Family	Rubiaceae		1		
+382460	596326		Order	Geraniales				
+382461	382460		Family	Geraniaceae				
+234498	596326		Order	Lamiales		1		
+344737	234498		Family	Acanthaceae				
+235032		344737	Family	Avicenniaceae		1		
+235032	234498		Family	Avicenniaceae		1		
+593113	234498		Family	Hippuridaceae				
+425910	234498		Family	Lamiaceae				
+382476	234498		Family	Orobanchaceae				
+382434	234498		Family	Plantaginaceae			1	
+593113		382434	Family	Hippuridaceae				
+414886	234498		Family	Scrophulariaceae				
+414917	234498		Family	Verbenaceae				
+382479	596326		Order	Liliales				
+425919	382479		Family	Colchicaceae				
+382480	382479		Family	Liliaceae				
+594766	382479		Family	Pontederiaceae				
+414888	382479		Family	Smilacaceae				
+414696	596326		Order	Magnoliales				
+414759	414696		Family	Annonaceae				
+413964	596326		Order	Malpighiales				
+234493		413964	Order	Rhizophorales		1		
+414783	413964		Family	Chrysobalanaceae				
+414786	413964		Family	Clusiaceae				
+715980	413964		Family	Elatinaceae				
+235055	413964		Family	Euphorbiaceae		1		
+414828	413964		Family	Hypericaceae				
+414836	413964		Family	Linaceae				
+414859	413964		Family	Passifloraceae				
+234494	413964		Family	Rhizophoraceae		1		
+425766	413964		Family	Violaceae				
+234499	596326		Order	Malvales		1		
+235044	234499		Family	Bombacaceae		1		
+425793	234499		Family	Cistaceae				
+413963	234499		Family	Malvaceae				
+235044		413963	Family	Bombacaceae		1		
+235115		413963	Family	Sterculariaceae		1		
+235115	234499		Family	Sterculariaceae		1		
+234500	596326		Order	Myrtales		1		
+235048	234500		Family	Combretaceae		1		
+235059	234500		Family	Lythraceae		1		
+235105		235059	Family	Sonneratiaceae		1		
+594800		235059	Family	Trapaceae				
+235071	234500		Family	Myrtaceae		1		
+414850	234500		Family	Onagraceae				
+235105	234500		Family	Sonneratiaceae		1		
+594800	234500		Family	Trapaceae				
+414923	234500		Family	Vochysiaceae				
+594759	596326		Order	Nymphaeales				
+594760	594759		Family	Cabombaceae				
+234035	596326		Order	Poales				
+382428	234035		Family	Cyperaceae				
+394964	234035		Family	Juncaceae				
+234036	234035		Family	Poaceae				
+416213	596326		Order	Ranunculales				
+426089	416213		Family	Berberidaceae				
+425799	416213		Family	Papaveraceae				
+416214	416213		Family	Ranunculaceae				
+234493	596326		Order	Rhizophorales		1		
+414693	596326		Order	Rosales				
+425754	414693		Family	Elaeagnaceae				
+447836	414693		Family	Moraceae				
+426042	414693		Family	Rhamnaceae				
+414881	414693		Family	Rosaceae				
+414915	414693		Family	Urticaceae				
+425969	596326		Order	Santalales				
+425970	425969		Family	Santalaceae				
+234502	596326		Order	Sapindales		1		
+414757	234502		Family	Anacardiaceae				
+235062	234502		Family	Meliaceae		1		
+414882	234502		Family	Rutaceae				
+414887	234502		Family	Simaroubaceae				
+414697	596326		Order	Saxifragales				
+414792	414697		Family	Crassulaceae				
+414822	414697		Family	Haloragaceae				
+425933	414697		Family	Saxifragaceae				
+414688	596326		Order	Solanales				
+196253	414688		Family	Convolvulaceae				
+414889	414688		Family	Solanaceae				
+414698	596326		Order	Vitales				
+414922	414698		Family	Vitaceae				
+196200	596326		Order	Zingiberales				
+196201	196200		Family	Marantaceae				

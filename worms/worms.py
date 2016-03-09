@@ -13,8 +13,8 @@ def openFile(name):
     return f
 
 def printTax(f, t, accid, pid):
-    print "%s %s %s" % (t.AphiaID, t.rank, t.scientificname)
-    f.write("%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (t.AphiaID, accid, pid, t.rank, t.scientificname, t.isExtinct, t.isMarine, t.isTerrestrial, t.isFreshwater))
+    print "%s %s %s%s" % (t.AphiaID, t.rank, "" if accid == None else "*", t.scientificname)
+    f.write("%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (t.AphiaID, pid, accid, t.rank, t.scientificname, t.isExtinct, t.isMarine, t.isTerrestrial, t.isFreshwater))
 
 def showObj(obj):
     for attr in vars(obj):
@@ -29,17 +29,19 @@ def get(id):
     return WoRMS.getAphiaRecordByID(id)
 
 def walkTree(f, tax):
-    syns = WoRMS.getAphiaSynonymsByID(id)
+    syns = WoRMS.getAphiaSynonymsByID(tax.AphiaID)
+    print "", "no" if syns == None else len(syns), "synonyms of", tax.scientificname
     if not syns == None:
         for s in syns:
-            printTax(f, s, tax.AphiaID, "")
+            printTax(f, s, tax.AphiaID, None)
     #verns = WoRMS.getAphiaVernacularsByID(id)
     childs = WoRMS.getAphiaChildrenByID(tax.AphiaID)
+    print "", "no" if childs == None else len(childs), "children of", tax.scientificname
     if not childs == None:
-        for child in childs:
-            if child.rank not in ["Family","Subfamily","Tribe","Genus"]:
-                printTax(f, child, "", tax.AphiaID)
-                walkTree(f, child)
+        for c in childs:
+            if c.rank not in ["Subfamily","Tribe","Genus"]:
+                printTax(f, c, None, tax.AphiaID)
+                walkTree(f, c)
 
 def search(name):
     print 'search for: ', name
