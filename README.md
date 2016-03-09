@@ -64,8 +64,8 @@ For Protozoa we will only treat the "algae" phylum Euglenozoa:
     - Euglenozoa
 
 ### GBIF Backbone 2013
-Classification down to families for the entire kingdoms [Plantae, Chromista and Protozoa](backbone2013/full.txt)
-A filtered version with just the seeked [algae phyla](backbone2013/algae.txt)
+Classification down to families for the entire kingdoms [Plantae, Chromista and Protozoa](backbone2013/nub-full.txt)
+A filtered version with just the seeked [algae phyla](backbone2013/nub-algae.txt)
 
 ### ITIS
 Classification down to families: [plantae](itis/itis-plantae.md), [chromista](itis/itis-chromista.md) & [protozoa](itis/itis-protozoa.md)
