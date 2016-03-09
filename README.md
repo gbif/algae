@@ -1,10 +1,16 @@
-# algae
-Algae classification using major Linnean ranks from kingdom -> order/family only.
+# GBIF Algae Classification
+A classification for all algae from kingdom down to families distributed across the 3 kingdoms Plantae, Chromista and Protozoa.
 Synonyms are included.
+This classification is aiming to fill the algae gaps in the current Catalog of Life which has no taxa within the following phyla:
+ - Chromista: Cryptophyta, Haptophyta, Ochrophyta
+ - Plantae: Charophyta, Chlorophyta, Glaucophyta, Rhodophyta
+ - Protozoa: Euglenozoa
 
 This is mainly to amend the serious gaps found in the current Catalog of Life.
 
 # Classifications in use
+The following classifications have been used as sources to create the algae classification.
+
 ### CoL - current
 ```
 Chromista
@@ -43,9 +49,10 @@ Protozoa
 ```
 
 As we use the entire CoL classification we primarily aim at filling in the gaps of these empty phyla:
+For Protozoa we will only treat the "algae" phylum Euglenozoa:
 
  - Chromista
-    - Cryptista
+    - Cryptista aka Cryptophyta
     - Haptophyta
     - Ochrophyta
  - Plantae
@@ -55,18 +62,18 @@ As we use the entire CoL classification we primarily aim at filling in the gaps 
     - Rhodophyta
  - Protozoa
     - Euglenozoa
-    - Loukozoa
-    - Metamonada
-    - Sulcozoa
 
 ### GBIF Backbone 2013
-Classification down to families for [Plantae, Chromista and Protozoa](backbone2013.txt)
+Classification down to families for the entire kingdoms [Plantae, Chromista and Protozoa](backbone2013/full.txt)
+A filtered version with just the seeked [algae phyla](backbone2013/algae.txt)
 
 ### ITIS
 Classification down to families: [plantae](itis/itis-plantae.md), [chromista](itis/itis-chromista.md) & [protozoa](itis/itis-protozoa.md)
 
 ### WoRMS
-Classification down to orders: [plantae](worms/worms-3.txt), [chromista](worms/worms-7.txt) & [protozoa](worms/worms-5.txt)
+Classification down to families for the kingdoms: [plantae](worms/worms-3.txt), [chromista](worms/worms-7.txt) & [protozoa](worms/worms-5.txt)
+
+The [derived algae classification](worms/algae.txt) includes all missing CoL phyla and also the missing protozoa phyla *Loukozoa* and *Metamonada*
 
 ### Algaebase
 Hard to access and the bad guy who requested removal from CoL and prevends WoRMS from sharing
