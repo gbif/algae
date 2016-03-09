@@ -5,7 +5,7 @@ Synonyms are included.
 This is mainly to amend the serious gaps found in the current Catalog of Life.
 
 # Classifications in use
-### CoL
+### CoL - current
 ```
 Chromista
   Bigyra
@@ -58,6 +58,9 @@ As we use the entire CoL classification we primarily aim at filling in the gaps 
     - Loukozoa
     - Metamonada
     - Sulcozoa
+
+### GBIF Backbone 2013
+Classification down to families for [Plantae, Chromista and Protozoa](backbone2013.txt)
 
 ### ITIS
 Classification down to families: [plantae](itis/itis-plantae.md), [chromista](itis/itis-chromista.md) & [protozoa](itis/itis-protozoa.md)
