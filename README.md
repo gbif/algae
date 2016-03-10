@@ -1,6 +1,7 @@
 # GBIF Algae Classification
-A classification for all algae from kingdom down to families distributed across the 3 kingdoms Plantae, Chromista and Protozoa.
-Synonyms are included.
+A classification for [all algae from kingdom down to families](algae.txt) distributed across the 3 kingdoms Plantae, Chromista and Protozoa.
+The project is setup so that the github zip represents a valid Darwin Core Checklist Archive, synonyms are included.
+
 This classification is aiming to fill the algae gaps in the current Catalog of Life which has no taxa within the following phyla:
  - Chromista: Cryptophyta, Haptophyta, Ochrophyta
  - Plantae: Charophyta, Chlorophyta, Glaucophyta, Rhodophyta
@@ -8,7 +9,10 @@ This classification is aiming to fill the algae gaps in the current Catalog of L
 
 The classification is registered in GBIF as http://www.gbif.org/dataset/7ea21580-4f06-469d-995b-3f713fdcc37c
 
-# Classifications in use
+## Classification details
+The [derived algae classification](algae.txt) includes all missing CoL phyla (see below) and also the missing protozoa phyla *Loukozoa* and *Metamonada*
+
+# Source classifications reviewed
 The following classifications have been used as sources to create the algae classification.
 
 ### CoL - current
@@ -72,8 +76,6 @@ Classification down to families: [plantae](itis/itis-plantae.md), [chromista](it
 
 ### WoRMS
 Classification down to families for the kingdoms: [plantae](worms/worms-3.txt), [chromista](worms/worms-7.txt) & [protozoa](worms/worms-5.txt)
-
-The [derived algae classification](worms/algae.txt) includes all missing CoL phyla and also the missing protozoa phyla *Loukozoa* and *Metamonada*
 
 ### Algaebase
 Hard to access and the bad guy who requested removal from CoL and prevends WoRMS from sharing
