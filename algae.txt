@@ -1,979 +1,979 @@
-taxonID	parentNameUsageID	acceptedNameUsageID	taxonRank	scientificName	isExtinct	isMarine	isTerrestrial	isFreshwater
-3			Kingdom	Plantae		1		
-368664	3		Phylum	Charophyta		1		
-146217	368664		Class	Charophyceae		1		
-179048	146217		Order	Charales		1		
-599587	179048		Family	Aclistocharaceae				
-179049	179048		Family	Characeae		1		
-599599	179048		Family	Clavatoraceae				
-599600	179048		Family	Porocharaceae				
-422893	146217		Order	Coleochaetales				
-422894	422893		Family	Coleochaetaceae				
-368673	368664		Class	Klebsormidiophyceae		1		
-22970	368673		Order	Klebsormidiales		1		
-572034	22970		Family	Elakatotrichaceae				
-368782	22970		Family	Klebsormidiaceae		1		
-143752	22970		Family	Stichococcaceae		1		
-599596	368664		Class	Mesostigmatophyceae				
-599597	599596		Order	Chaetosphaeridiales				
-599598	599597		Family	Chaetosphaeridiaceae				
-599670	599596		Order	Mesostigmatales				
-599671	599670		Family	Mesostigmataceae				
-162685	368664		Class	Zygnematophyceae				
-162693	162685		Order	Zygnematales				
-178967		162693	Order	Conjugales				
-573992	162693		Family	Closteriaceae				
-162724	162693		Family	Desmidiaceae				
-599730	162693		Family	Mesotaeniaceae				
-493902	162693		Family	Peniaceae				
-248136	162693		Family	Zygnemataceae				
-801	3		Phylum	Chlorophyta		1		
-802	801		Class	Chlorophyceae		1		
-803	802		Order	Acrosiphoniales		1		
-22964	802		Order	Caulerpales		1		
-368680	802		Order	Chaetopeltidales		1		
-157128	368680		Family	Chaetopeltidaceae		1		
-18608	802		Order	Chaetophorales		1		
-558962	18608		Family	Aphanochaetaceae				
-143675	18608		Family	Chaetophoraceae		1		
-599595	18608		Family	Schizomeridaceae				
-732333	802		Order	Chlamydomonadales				
-17111		732333	Order	Chlorococcales		1		
-599605	732333		Family	Actinochloridaceae				
-599606	732333		Family	Characiosiphonaceae				
-493880	732333		Family	Chlorochytriaceae				
-143676	732333		Family	Chlorococcaceae		1		
-577656	732333		Family	Chlorosarcinaceae				
-163102	732333		Family	Coccomyxaceae				
-599607	732333		Family	Cylindrocapsaceae				
-178622	732333		Family	Dictyosphaeriaceae				
-143677	732333		Family	Endosphaeraceae		1		
-558964	732333		Family	Golenkiniaceae				
-599608	732333		Family	Hormotilaceae				
-599609	732333		Family	Hypnomonadaceae				
-163476	732333		Family	Micractiniaceae				
-599610	732333		Family	Protosiphonaceae				
-599611	732333		Family	Rhopalosolenaceae				
-599612	732333		Family	Scotiellocystoidaceae				
-599613	732333		Family	Sphaerodictyaceae				
-447747	732333		Family	Sphaeropleaceae				
-576712	732333		Family	Treubariaceae				
-21243	802		Order	Chlorocystidales		1		
-143678	21243		Family	Chlorocystidaceae		1		
-599614	802		Family	Chlorangiopsidaceae				
-599615	802		Family	Tetracystaceae				
-22965	802		Order	Codiales		1		
-599636	802		Order	Dunaliellales				
-599637	599636		Family	Asteromonadaceae				
-599638	599636		Family	Raciborskiellaceae				
-577721	802		Order	Oedogoniales				
-577722	577721		Family	Oedogoniaceae				
-21875	802		Order	Phaeophilales		1		
-558965	802		Order	Sphaeropleales				
-22971		558965	Order	Microsporales		1		
-558966	558965		Family	Ankistrodesmaceae				
-599704	558965		Family	Bracteacoccaceae				
-836369	558965		Family	Bracteamorphaceae				
-164096	558965		Family	Characiaceae				
-160560	558965		Family	Hydrodictyaceae				
-143757	558965		Family	Microsporaceae		1		
-558971	558965		Family	Neochloridaceae				
-493879	558965		Family	Radiococcaceae				
-836370	558965		Family	Rotundellaceae				
-160541	558965		Family	Scenedesmaceae		1		
-599705	558965		Family	Selenastraceae				
-836371	558965		Family	Tumidellaceae				
-18537	802		Order	Tetrasporales		1		
-599715	18537		Family	Characiochloridaceae				
-599716	18537		Family	Chlorangiellaceae				
-178922	18537		Family	Gloeocystaceae				
-599717	18537		Family	Gloeodendraceae				
-248168	18537		Family	Palmellaceae				
-368891	18537		Family	Palmellopsidaceae		1		
-599718	18537		Family	Sphaerocystidaceae				
-143787	18537		Family	Tetrasporaceae		1		
-18526	802		Order	Volvocales		1		
-590352		18526	Order	Protococcales				
-147696		18526	Order	Volvocida				
-367249	18526		Family	Carteriaceae				
-178973	18526		Family	Chlamydomonadaceae		1		
-178975		178973	Family	Chlamidomonadidae				
-599728	18526		Family	Dangeardinellaceae				
-368897	18526		Family	Dunaliellaceae		1		
-577668	18526		Family	Goniaceae				
-428521	18526		Family	Haematococcaceae				
-162734	18526		Family	Phacotaceae				
-163120	18526		Family	Spondylomoraceae				
-578344	18526		Family	Tetrabaenaceae				
-143798	18526		Family	Volvocaceae		1		
-493835	801		Class	Mamiellophyceae				
-493836	493835		Order	Dolichomastigales				
-493886	493836		Family	Dolichomastigaceae				
-17662	493835		Order	Mamiellales		1		
-493889	17662		Family	Bathycoccaceae				
-17663	17662		Family	Mamiellaceae		1		
-578238	17662		Family	Monomastigaceae				
-368676	801		Class	Nephroselmidophyceae		1		
-368697	368676		Order	Nephroselmidales		1		
-368875	368697		Family	Nephroselmidaceae		1		
-368677	801		Class	Pedinophyceae		1		
-146219	368677		Order	Pedinomonadales		1		
-146218	146219		Family	Pedinomonadaceae		1		
-368698	368677		Order	Scourfieldiales		1		
-368888	368698		Family	Scourfieldiaceae		1		
-368678	801		Class	Pleurastrophyceae		1		
-368705	368678		Order	Pleurastrales		1		
-368881	368705		Family	Pleurastraceae		1		
-17329	801		Class	Prasinophyceae		1		
-147697		17329	Order	Prasinomonadina				
-17328		17329	Phylum	Prasinophyta		1		
-17666	17329		Order	Chlorodendrales		1		
-17667	17666		Family	Chlorodendraceae		1		
-21004	17666		Family	Halosphaeraceae		1		
-172812	17329		Order	Halosphaerales				
-172813	172812		Family	Pterospermataceae				
-368706	17329		Order	Prasinococcales		1		
-368882	368706		Family	Prasinococcaceae		1		
-368707	17329		Order	Pseudoscourfieldiales		1		
-22613	368707		Family	Pycnococcaceae		1		
-17330	17329		Order	Pyramimonadales		1		
-162924	17330		Family	Polyblepharidaceae		1		
-368883	17330		Family	Pyramimonadaceae		1		
-160573	801		Class	Trebouxiophyceae		1		
-160574	160573		Order	Chlorellales				
-160575	160574		Family	Chlorellaceae		1		
-599602	160574		Family	Ctenocladaceae				
-599603	160574		Family	Eremosphaeraceae				
-558970	160574		Family	Koliellaceae				
-599604	160574		Family	Leptosiraceae				
-160586	160573		Order	Microthamniales				
-599672	160586		Family	Microthamniaceae				
-493837	160573		Order	Oocystales				
-160589	493837		Family	Oocystaceae		1		
-820	160573		Order	Prasiolales		1		
-143771	820		Family	Prasiolaceae		1		
-599721	160573		Order	Trebouxiales				
-493881	599721		Family	Botryococcaceae				
-599722	599721		Family	Trebouxiaceae				
-146216	801		Class	Ulvophyceae		1		
-368675		146216	Class	Bryopsidophyceae		1		
-808	146216		Order	Bryopsidales		1		
-143666	808		Family	Bryopsidaceae		1		
-143668	808		Family	Caulerpaceae		1		
-143669	808		Family	Chaetosiphonaceae		1		
-143689	808		Family	Codiaceae		1		
-143667	808		Family	Derbesiaceae		1		
-368714	808		Family	Dichotomosiphonaceae		1		
-368715	808		Family	Halimedaceae		1		
-368716	808		Family	Ostreobiaceae		1		
-368717	808		Family	Pseudocodiaceae		1		
-599594	808		Family	Rhipiliaceae				
-143670	808		Family	Udoteaceae		1		
-813	146216		Order	Cladophorales		1		
-143686	813		Family	Anadyomenaceae		1		
-143687	813		Family	Cladophoraceae		1		
-547536	813		Family	Okellyaceae				
-707601	813		Family	Pithophoraceae				
-707607	813		Family	Pseudocladophoraceae				
-143688	813		Family	Witrockiellaceae		1		
-325414	146216		Order	Codiolales		1		
-325415	325414		Family	Codiolaceae		1		
-18815	146216		Order	Dasycladales		1		
-143702	18815		Family	Dasycladaceae		1		
-143703	18815		Family	Polyphysaceae		1		
-493838	146216		Order	Oltmannsiellopsidales				
-493892	493838		Family	Oltmannsiellopsidaceae				
-22974	146216		Order	Siphonocladales		1		
-143778	22974		Family	Boodleaceae		1		
-143779	22974		Family	Siphonocladaceae		1		
-143780	22974		Family	Valoniaceae		1		
-422888	146216		Order	Trentepohliales				
-422889	422888		Family	Trentepohliaceae				
-824	146216		Order	Ulotrichales		1		
-143789	824		Family	Borodinellaceae		1		
-380901	824		Family	Collinsiellaceae				
-416376	824		Family	Gloeotilaceae				
-196248	824		Family	Gomontiaceae		1		
-143790	824		Family	Ulotrichaceae		1		
-827	146216		Order	Ulvales		1		
-493901	827		Family	Bolbocoleonaceae				
-143791	827		Family	Capsosiphonaceae		1		
-599725	827		Family	Cloniophoraceae				
-368895	827		Family	Gayraliaceae		1		
-368896	827		Family	Jaoaceae		1		
-143792	827		Family	Kornmanniaceae		1		
-143793	827		Family	Monostromataceae		1		
-143764	827		Family	Phaeophilaceae		1		
-143794	827		Family	Ulvaceae		1		
-143795	827		Family	Ulvellaceae		1		
+10000	10001	10002	taxonRank	scientificName	isExtinct	isMarine	isTerrestrial	isFreshwater
+1			Kingdom	Plantae		1		
+100	1		Phylum	Charophyta		1		
+1000	100		Class	Charophyceae		1		
+10003	1000		Order	Charales		1		
+10004	10003		Family	Aclistocharaceae				
+10005	10003		Family	Characeae		1		
+10006	10003		Family	Clavatoraceae				
+10007	10003		Family	Porocharaceae				
+10008	1000		Order	Coleochaetales				
+10009	10008		Family	Coleochaetaceae				
+1001	100		Class	Klebsormidiophyceae		1		
+10010	1001		Order	Klebsormidiales		1		
+10011	10010		Family	Elakatotrichaceae				
+10012	10010		Family	Klebsormidiaceae		1		
+10013	10010		Family	Stichococcaceae		1		
+1002	100		Class	Mesostigmatophyceae				
+10014	1002		Order	Chaetosphaeridiales				
+10015	10014		Family	Chaetosphaeridiaceae				
+10016	1002		Order	Mesostigmatales				
+10017	10016		Family	Mesostigmataceae				
+1003	100		Class	Zygnematophyceae				
+10018	1003		Order	Zygnematales				
+10019		10018	Order	Conjugales				
+10020	10018		Family	Closteriaceae				
+10021	10018		Family	Desmidiaceae				
+10022	10018		Family	Mesotaeniaceae				
+10023	10018		Family	Peniaceae				
+10024	10018		Family	Zygnemataceae				
+101	1		Phylum	Chlorophyta		1		
+1004	101		Class	Chlorophyceae		1		
+10025	1004		Order	Acrosiphoniales		1		
+10026	1004		Order	Caulerpales		1		
+10027	1004		Order	Chaetopeltidales		1		
+10028	10027		Family	Chaetopeltidaceae		1		
+10029	1004		Order	Chaetophorales		1		
+10030	10029		Family	Aphanochaetaceae				
+10031	10029		Family	Chaetophoraceae		1		
+10032	10029		Family	Schizomeridaceae				
+10033	1004		Order	Chlamydomonadales				
+10034		10033	Order	Chlorococcales		1		
+10035	10033		Family	Actinochloridaceae				
+10036	10033		Family	Characiosiphonaceae				
+10037	10033		Family	Chlorochytriaceae				
+10038	10033		Family	Chlorococcaceae		1		
+10039	10033		Family	Chlorosarcinaceae				
+10040	10033		Family	Coccomyxaceae				
+10041	10033		Family	Cylindrocapsaceae				
+10042	10033		Family	Dictyosphaeriaceae				
+10043	10033		Family	Endosphaeraceae		1		
+10044	10033		Family	Golenkiniaceae				
+10045	10033		Family	Hormotilaceae				
+10046	10033		Family	Hypnomonadaceae				
+10047	10033		Family	Micractiniaceae				
+10048	10033		Family	Protosiphonaceae				
+10049	10033		Family	Rhopalosolenaceae				
+10050	10033		Family	Scotiellocystoidaceae				
+10051	10033		Family	Sphaerodictyaceae				
+10052	10033		Family	Sphaeropleaceae				
+10053	10033		Family	Treubariaceae				
+10054	1004		Order	Chlorocystidales		1		
+10055	10054		Family	Chlorocystidaceae		1		
+10056	1004		Family	Chlorangiopsidaceae				
+10057	1004		Family	Tetracystaceae				
+10058	1004		Order	Codiales		1		
+10059	1004		Order	Dunaliellales				
+10060	10059		Family	Asteromonadaceae				
+10061	10059		Family	Raciborskiellaceae				
+10062	1004		Order	Oedogoniales				
+10063	10062		Family	Oedogoniaceae				
+10064	1004		Order	Phaeophilales		1		
+10065	1004		Order	Sphaeropleales				
+10066		10065	Order	Microsporales		1		
+10067	10065		Family	Ankistrodesmaceae				
+10068	10065		Family	Bracteacoccaceae				
+10069	10065		Family	Bracteamorphaceae				
+10070	10065		Family	Characiaceae				
+10071	10065		Family	Hydrodictyaceae				
+10072	10065		Family	Microsporaceae		1		
+10073	10065		Family	Neochloridaceae				
+10074	10065		Family	Radiococcaceae				
+10075	10065		Family	Rotundellaceae				
+10076	10065		Family	Scenedesmaceae		1		
+10077	10065		Family	Selenastraceae				
+10078	10065		Family	Tumidellaceae				
+10079	1004		Order	Tetrasporales		1		
+10080	10079		Family	Characiochloridaceae				
+10081	10079		Family	Chlorangiellaceae				
+10082	10079		Family	Gloeocystaceae				
+10083	10079		Family	Gloeodendraceae				
+10084	10079		Family	Palmellaceae				
+10085	10079		Family	Palmellopsidaceae		1		
+10086	10079		Family	Sphaerocystidaceae				
+10087	10079		Family	Tetrasporaceae		1		
+10088	1004		Order	Volvocales		1		
+10089		10088	Order	Protococcales				
+10090		10088	Order	Volvocida				
+10091	10088		Family	Carteriaceae				
+10092	10088		Family	Chlamydomonadaceae		1		
+10093		10092	Family	Chlamidomonadidae				
+10094	10088		Family	Dangeardinellaceae				
+10095	10088		Family	Dunaliellaceae		1		
+10096	10088		Family	Goniaceae				
+10097	10088		Family	Haematococcaceae				
+10098	10088		Family	Phacotaceae				
+10099	10088		Family	Spondylomoraceae				
+10100	10088		Family	Tetrabaenaceae				
+10101	10088		Family	Volvocaceae		1		
+1005	101		Class	Mamiellophyceae				
+10102	1005		Order	Dolichomastigales				
+10103	10102		Family	Dolichomastigaceae				
+10104	1005		Order	Mamiellales		1		
+10105	10104		Family	Bathycoccaceae				
+10106	10104		Family	Mamiellaceae		1		
+10107	10104		Family	Monomastigaceae				
+1006	101		Class	Nephroselmidophyceae		1		
+10108	1006		Order	Nephroselmidales		1		
+10109	10108		Family	Nephroselmidaceae		1		
+1007	101		Class	Pedinophyceae		1		
+10110	1007		Order	Pedinomonadales		1		
+10111	10110		Family	Pedinomonadaceae		1		
+10112	1007		Order	Scourfieldiales		1		
+10113	10112		Family	Scourfieldiaceae		1		
+1008	101		Class	Pleurastrophyceae		1		
+10114	1008		Order	Pleurastrales		1		
+10115	10114		Family	Pleurastraceae		1		
+1009	101		Class	Prasinophyceae		1		
+10116		1009	Order	Prasinomonadina				
+102		1009	Phylum	Prasinophyta		1		
+10117	1009		Order	Chlorodendrales		1		
+10118	10117		Family	Chlorodendraceae		1		
+10119	10117		Family	Halosphaeraceae		1		
+10120	1009		Order	Halosphaerales				
+10121	10120		Family	Pterospermataceae				
+10122	1009		Order	Prasinococcales		1		
+10123	10122		Family	Prasinococcaceae		1		
+10124	1009		Order	Pseudoscourfieldiales		1		
+10125	10124		Family	Pycnococcaceae		1		
+10126	1009		Order	Pyramimonadales		1		
+10127	10126		Family	Polyblepharidaceae		1		
+10128	10126		Family	Pyramimonadaceae		1		
+1010	101		Class	Trebouxiophyceae		1		
+10129	1010		Order	Chlorellales				
+10130	10129		Family	Chlorellaceae		1		
+10131	10129		Family	Ctenocladaceae				
+10132	10129		Family	Eremosphaeraceae				
+10133	10129		Family	Koliellaceae				
+10134	10129		Family	Leptosiraceae				
+10135	1010		Order	Microthamniales				
+10136	10135		Family	Microthamniaceae				
+10137	1010		Order	Oocystales				
+10138	10137		Family	Oocystaceae		1		
+10139	1010		Order	Prasiolales		1		
+10140	10139		Family	Prasiolaceae		1		
+10141	1010		Order	Trebouxiales				
+10142	10141		Family	Botryococcaceae				
+10143	10141		Family	Trebouxiaceae				
+1011	101		Class	Ulvophyceae		1		
+1012		1011	Class	Bryopsidophyceae		1		
+10144	1011		Order	Bryopsidales		1		
+10145	10144		Family	Bryopsidaceae		1		
+10146	10144		Family	Caulerpaceae		1		
+10147	10144		Family	Chaetosiphonaceae		1		
+10148	10144		Family	Codiaceae		1		
+10149	10144		Family	Derbesiaceae		1		
+10150	10144		Family	Dichotomosiphonaceae		1		
+10151	10144		Family	Halimedaceae		1		
+10152	10144		Family	Ostreobiaceae		1		
+10153	10144		Family	Pseudocodiaceae		1		
+10154	10144		Family	Rhipiliaceae				
+10155	10144		Family	Udoteaceae		1		
+10156	1011		Order	Cladophorales		1		
+10157	10156		Family	Anadyomenaceae		1		
+10158	10156		Family	Cladophoraceae		1		
+10159	10156		Family	Okellyaceae				
+10160	10156		Family	Pithophoraceae				
+10161	10156		Family	Pseudocladophoraceae				
+10162	10156		Family	Witrockiellaceae		1		
+10163	1011		Order	Codiolales		1		
+10164	10163		Family	Codiolaceae		1		
+10165	1011		Order	Dasycladales		1		
+10166	10165		Family	Dasycladaceae		1		
+10167	10165		Family	Polyphysaceae		1		
+10168	1011		Order	Oltmannsiellopsidales				
+10169	10168		Family	Oltmannsiellopsidaceae				
+10170	1011		Order	Siphonocladales		1		
+10171	10170		Family	Boodleaceae		1		
+10172	10170		Family	Siphonocladaceae		1		
+10173	10170		Family	Valoniaceae		1		
+10174	1011		Order	Trentepohliales				
+10175	10174		Family	Trentepohliaceae				
+10176	1011		Order	Ulotrichales		1		
+10177	10176		Family	Borodinellaceae		1		
+10178	10176		Family	Collinsiellaceae				
+10179	10176		Family	Gloeotilaceae				
+10180	10176		Family	Gomontiaceae		1		
+10181	10176		Family	Ulotrichaceae		1		
+10182	1011		Order	Ulvales		1		
+10183	10182		Family	Bolbocoleonaceae				
+10184	10182		Family	Capsosiphonaceae		1		
+10185	10182		Family	Cloniophoraceae				
+10186	10182		Family	Gayraliaceae		1		
+10187	10182		Family	Jaoaceae		1		
+10188	10182		Family	Kornmanniaceae		1		
+10189	10182		Family	Monostromataceae		1		
+10190	10182		Family	Phaeophilaceae		1		
+10191	10182		Family	Ulvaceae		1		
+10192	10182		Family	Ulvellaceae		1		
 
-599656	3		Phylum	Glaucophyta				
-599657	599656		Class	Glaucophyceae				
-599658	599657		Order	Glaucocystales				
-599659	599658		Family	Glaucocystaceae				
+103	1		Phylum	Glaucophyta				
+1013	103		Class	Glaucophyceae				
+10193	1013		Order	Glaucocystales				
+10194	10193		Family	Glaucocystaceae				
 
-852	3		Phylum	Rhodophyta		1		
-182729		852	Phylum	Rhodophycota				
-599624	852		Subdivision	Cyanidophytina				
-599625	599624		Class	Cyanidiophyceae				
-599626	599625		Order	Cyanidiales				
-599627	599626		Family	Cyanidiaceae				
-599628	599626		Family	Galdieriaceae				
-493826	852		Subdivision	Eurhodophytina				
-368668	493826		Class	Bangiophyceae		1		
-856	368668		Subclass	Bangiophycidae		1		
-857	856		Order	Bangiales		1		
-143664	857		Family	Bangiaceae		1		
-836358	857		Family	Granufilaceae				
-21292	856		Order	Goniotrichales		1		
-143747	21292		Family	Goniotrichaceae		1		
-143746		143747	Family	Goniotricaceae		1		
-368670	493826		Class	Florideophyceae		1		
-854		368670	Subclass	Florideophycidae		1		
-368686	368670		Subclass	Ahnfeltiophycidae		1		
-146312	368686		Order	Ahnfeltiales		1		
-146313	146312		Family	Ahnfeltiaceae		1		
-368687	368670		Subclass	Corallinophycidae		1		
-15308	368687		Order	Corallinales		1		
-143691	15308		Family	Corallinaceae		1		
-368755	15308		Family	Hapalidiaceae		1		
-143692	15308		Family	Sporolithaceae		1		
-368688	368687		Order	Rhodogorgonales		1		
-368886	368688		Family	Rhodogorgonaceae		1		
-368689	368670		Subclass	Hildenbrandiophycidae		1		
-146316	368689		Order	Hildenbrandiales		1		
-143750	146316		Family	Hildenbrandiaceae		1		
-368690	368670		Subclass	Nemaliophycidae		1		
-836376	368690		Order	Entwisleiales				
-836377	836376		Family	Entwisleiaceae				
-21305	368690		Order	Nemaliales		1		
-196241	21305		Family	Chaetangiaceae				
-143758	21305		Family	Galaxauraceae		1		
-196242	21305		Family	Helminthocladiaceae				
-143759	21305		Family	Liagoraceae		1		
-368873	21305		Family	Scinaiaceae		1		
-599695	368690		Order	Rhodachlyales				
-599696	599695		Family	Rhodachlyaceae				
-196243	368670		Subclass	Rhodymeniophycidae		1		
-143661	196243		Family	Acrochaetiaceae		1		
-146311	196243		Order	Acrochaetiales		1		
-368691	196243		Order	Acrosymphytales		1		
-143693	368691		Family	Acrosymphytaceae		1		
-493829	196243		Order	Balbianiales				
-493874	493829		Family	Balbianiaceae				
-368692	196243		Order	Balliales		1		
-368711	368692		Family	Balliaceae		1		
-368693	196243		Order	Batrachospermales		1		
-493875	368693		Family	Batrachospermaceae				
-368712	368693		Family	Lemaneaceae		1		
-599593	368693		Family	Psilosiphonaceae				
-146314	196243		Order	Bonnemaisoniales		1		
-143665	146314		Family	Bonnemaisoniaceae		1		
-143760	146314		Family	Naccariaceae		1		
-860	196243		Order	Ceramiales		1		
-493878	860		Family	Callithamniaceae				
-143671	860		Family	Ceramiaceae		1		
-143672	860		Family	Dasyaceae		1		
-143673	860		Family	Delesseriaceae		1		
-493876	860		Family	Inkyuleeaceae				
-143674	860		Family	Rhodomelaceae		1		
-368748	860		Family	Sarcomeniaceae		1		
-368751	860		Family	Spyridiaceae		1		
-493877	860		Family	Wrangeliaceae				
-172843	196243		Order	Colaconematales		1		
-172844	172843		Family	Colaconemataceae		1		
-146315	196243		Order	Gelidiales		1		
-143726	146315		Family	Gelidiaceae		1		
-196224	146315		Family	Gelidiellaceae		1		
-368765	146315		Family	Pterocladiaceae		1		
-871	196243		Order	Gigartinales		1		
-196269	871		Family	Acrotylaceae		1		
-368766	871		Family	Areschougiaceae		1		
-368767	871		Family	Blinksiaceae		1		
-143727	871		Family	Calosiphoniaceae		1		
-368768	871		Family	Catenellopsidaceae		1		
-143728	871		Family	Caulacanthaceae		1		
-368769	871		Family	Chondriellaceae		1		
-836359	871		Family	Chondrymeniaceae				
-143729	871		Family	Choreocolacaceae		1		
-196225	871		Family	Corynocystaceae		1		
-368770	871		Family	Crossocarpaceae		1		
-143730	871		Family	Cruoriaceae		1		
-368771	871		Family	Cubiculosporaceae		1		
-143731	871		Family	Cystocloniaceae		1		
-196226	871		Family	Dicranemataceae		1		
-143695	871		Family	Dumontiaceae		1		
-368772	871		Family	Endocladiaceae		1		
-143732	871		Family	Furcellariaceae		1		
-325416	871		Family	Gainiaceae		1		
-143733	871		Family	Gigartinaceae		1		
-143696	871		Family	Gloiosiphoniaceae		1		
-143734	871		Family	Haemeschariaceae		1		
-143735	871		Family	Hypneaceae		1		
-143698	871		Family	Kallymeniaceae		1		
-368773	871		Family	Mychodeaceae		1		
-368774	871		Family	Mychodeophyllaceae		1		
-368775	871		Family	Nizymeniaceae		1		
-196228	871		Family	Phacelocarpaceae		1		
-143738	871		Family	Phyllophoraceae		1		
-143737		143738	Family	Petrocelidaceae		1		
-143739	871		Family	Polyidaceae		1		
-368776	871		Family	Pseudoanemoniaceae		1		
-143700	871		Family	Rhizophyllidaceae		1		
-143740	871		Family	Rissoellaceae		1		
-143741	871		Family	Sarcodiaceae		1		
-599655	871		Family	Schmiziellaceae				
-143744	871		Family	Solieriaceae		1		
-143784	871		Family	Sphaerococcaceae		1		
-368777	871		Family	Stictosporaceae		1		
-368778	871		Family	Tichocarpaceae		1		
-143745	871		Family	Wurdemanniaceae		1		
-876	196243		Order	Gracilariales		1		
-143748	876		Family	Gracilariaceae		1		
-143749	876		Family	Pterocladiophilaceae		1		
-162592	196243		Order	Halymeniales		1		
-143697	162592		Family	Halymeniaceae		1		
-599665	162592		Family	Tsengiaceae				
-368694	196243		Order	Nemastomatales		1		
-143736	368694		Family	Nemastomataceae		1		
-143742	368694		Family	Schizymeniaceae		1		
-878	196243		Order	Palmariales		1		
-493894	878		Family	Meiodiscaceae				
-143761	878		Family	Palmariaceae		1		
-143762	878		Family	Rhodophysemataceae		1		
-143763	878		Family	Rhodothamniellaceae		1		
-493830	196243		Order	Peyssonneliales				
-143699	493830		Family	Peyssonneliaceae		1		
-196227		143699	Family	Peyssonnelliaceae				
-368695	196243		Order	Pihiellales		1		
-368880	368695		Family	Pihiellaceae		1		
-146317	196243		Order	Plocamiales		1		
-143765	146317		Family	Plocamiaceae		1		
-15241	196243		Order	Rhodymeniales		1		
-143773	15241		Family	Champiaceae		1		
-143774	15241		Family	Faucheaceae		1		
-493899	15241		Family	Fryeellaceae				
-493898	15241		Family	Hymenocladiaceae				
-143775	15241		Family	Lomentariaceae		1		
-143776	15241		Family	Rhodymeniaceae		1		
-368696	196243		Order	Sebdeniales		1		
-143743	368696		Family	Sebdeniaceae		1		
-381050	196243		Order	Thoreales				
-381051	381050		Family	Thoreaceae				
-493831	852		Subdivision	Metarhodophytina				
-368669	493831		Class	Compsopogonophyceae		1		
-22966	368669		Order	Compsopogonales		1		
-493884	22966		Family	Boldiaceae				
-143690	22966		Family	Compsopogonaceae		1		
-146320	368669		Order	Erythropeltidales		1		
-143721	146320		Family	Erythropeltidaceae		1		
-162774	146320		Family	Erythrotrichiaceae		1		
-22973	368669		Order	Rhodochaetales		1		
-143772	22973		Family	Rhodochaetaceae		1		
-21263	852		Class	Rhodophyceae		1		
-22967	368670		Order	Cryptonemiales		1		
-143694	22967		Family	Corynomorphaceae		1		
-196197	22967		Family	Cryptonemiaceae				
-22975	368670		Order	Sphaerococcales		1		
-368666	852		Subdivision	Rhodophytina		1		
-493832	368666		Class	Porphyridiophyceae				
-15324	493832		Order	Porphyridiales		1		
-143766	15324		Family	Phragmonemataceae		1		
-143767	15324		Family	Porphyridiaceae		1		
-368671	368666		Class	Rhodellophyceae		1		
-493833	368671		Order	Dixoniellales				
-493885	493833		Family	Dixoniellaceae				
-599660	368671		Order	Glaucosphaerales				
-599661	599660		Family	Glaucosphaeraceae				
-493834	368671		Order	Rhodellales				
-493897	493834		Family	Rhodellaceae				
-368672	368666		Class	Stylonematophyceae		1		
-599697	368672		Order	Rufusiales				
-599698	599697		Family	Rufusiaceae				
-368708	368672		Order	Stylonematales		1		
-368890	368708		Family	Stylonemataceae		1		
-
-
-
-5			Kingdom	Protozoa		1		
-536202	5		Phylum	Euglenozoa				
-536193	536202		Class	Bodonophyceae				
-536194	536193		Order	Bodonales				
-536195	536193		Order	Karotomorphales				
-536196	536195		Family	Karotomorphaceae				
-582176	536202		Class	Diplonemea				
-582207	582176		Order	Diplonemida				
-493887	582207		Family	Rhynchopodaceae				
-582177	536202		Class	Euglenoidea				
-19539		582177	Class	Euglenophyceae		1		
-582199	582177		Subclass	Aphagia				
-582208	582199		Order	Rhabdomonadida				
-582200	582177		Subclass	Euglenia				
-582209	582200		Order	Euglenida				
-21001	582209		Family	Euglenaceae		1		
-162995		21001	Family	Euglenidae				
-162521	582209		Family	Petalomonadaceae				
-573995	582209		Family	Phacaceae				
-582210	582200		Order	Eutreptiida				
-17654		582210	Order	Eutreptiales		1		
-17788	582210		Family	Astasiaceae		1		
-17655	582210		Family	Eutreptiaceae		1		
-582201	582177		Subclass	Peranemia				
-582211	582201		Order	Peranemida				
-21621	582211		Family	Peranemaceae		1		
-582212	582201		Order	Ploeotiida				
-582202	582177		Subclass	Petalomonadia				
-582213	582202		Order	Petalomonadida				
-146228		582177	Class	Euglenida		1		
-21000	582177		Order	Euglenales		1		
-562565	536202		Class	Kinetoplastea				
-26		562565	Class	Kinetoplastida		1		
-562566	562565		Subclass	Metakinetoplastina				
-562574	562566		Order	Bodonida				
-582215	562566		Order	Eubodonida				
-536197	582215		Family	Bodonaceae				
-599743	582215		Family	Cryptobiaceae				
-582216	562566		Order	Neobodonida				
-582217	562566		Order	Parabodonida				
-22556	582217		Family	Bodonidae		1		
-562567	562566		Order	Trypanosomatida				
-562568	562567		Suborder	Trypanosomatina				
-387397	562568		Family	Trypanosomatidae		1	1	1
-582203	562565		Subclass	Prokinetoplastina				
-582214	582203		Order	Prokinetoplastida				
-582178	536202		Class	Postgaardea				
-582218	582178		Order	Postgaardida				
-
-582163	5		Phylum	Loukozoa				
-582179	582163		Class	Jakobea				
-582219	582179		Order	Jakobida				
-599667	582219		Family	Histionidae				
-599668	582219		Family	Jakobidae				
-582180	582163		Class	Malawimonadea				
-582220	582180		Order	Malawimonadida				
-562592	5		Phylum	Metamonada				
-582164	562592		Subphylum	Anaeromonada				
-582181	582164		Class	Anaeromonadea				
-582221	582181		Order	Oxymonadida				
-582222	582181		Order	Trimastigida				
-562594	562592		Subphylum	Trichozoa				
-582173	562594		Superclass	Carpediemonadia				
-582182	582173		Class	Carpediemonadea				
-582223	582182		Order	Carpediemonadida				
-582174	562594		Superclass	Eopharyngia				
-562603	582174		Class	Retortamonadea		1	0	1
-562605	562603		Order	Retortamonadida		1	0	1
-562606	562605		Family	Retortamonadidae		1	0	0
-562609	582174		Class	Trepomonadea		1	0	1
-562604	562609		Subclass	Diplozoa		1	0	1
-562612	562604		Order	Distomatida		1	0	1
-562613	562612		Family	Enteromonadidae		1	0	0
-562616	562612		Family	Hexamitidae		1	0	1
-582224	562604		Order	Giardiida				
-582204	562609		Subclass	Enteromonadia				
-582225	582204		Order	Enteromonadida				
-582175	562594		Superclass	Parabasalia				
-562596	582175		Class	Trichomonadea		1	0	1
-582226	562596		Order	Lophomonadida				
-582227	562596		Order	Spirotrichonymphida				
-562597	562596		Order	Trichomonadida		1	0	1
-562598	562597		Family	Monocercomonadidae				
-582183	582175		Class	Trichonymphea				
-582228	582183		Order	Trichonymphida				
+104	1		Phylum	Rhodophyta		1		
+105		104	Phylum	Rhodophycota				
+10195	104		Subdivision	Cyanidophytina				
+1014	10195		Class	Cyanidiophyceae				
+10196	1014		Order	Cyanidiales				
+10197	10196		Family	Cyanidiaceae				
+10198	10196		Family	Galdieriaceae				
+10199	104		Subdivision	Eurhodophytina				
+1015	10199		Class	Bangiophyceae		1		
+10200	1015		Subclass	Bangiophycidae		1		
+10201	10200		Order	Bangiales		1		
+10202	10201		Family	Bangiaceae		1		
+10203	10201		Family	Granufilaceae				
+10204	10200		Order	Goniotrichales		1		
+10205	10204		Family	Goniotrichaceae		1		
+10206		10205	Family	Goniotricaceae		1		
+1016	10199		Class	Florideophyceae		1		
+10207		1016	Subclass	Florideophycidae		1		
+10208	1016		Subclass	Ahnfeltiophycidae		1		
+10209	10208		Order	Ahnfeltiales		1		
+10210	10209		Family	Ahnfeltiaceae		1		
+10211	1016		Subclass	Corallinophycidae		1		
+10212	10211		Order	Corallinales		1		
+10213	10212		Family	Corallinaceae		1		
+10214	10212		Family	Hapalidiaceae		1		
+10215	10212		Family	Sporolithaceae		1		
+10216	10211		Order	Rhodogorgonales		1		
+10217	10216		Family	Rhodogorgonaceae		1		
+10218	1016		Subclass	Hildenbrandiophycidae		1		
+10219	10218		Order	Hildenbrandiales		1		
+10220	10219		Family	Hildenbrandiaceae		1		
+10221	1016		Subclass	Nemaliophycidae		1		
+10222	10221		Order	Entwisleiales				
+10223	10222		Family	Entwisleiaceae				
+10224	10221		Order	Nemaliales		1		
+10225	10224		Family	Chaetangiaceae				
+10226	10224		Family	Galaxauraceae		1		
+10227	10224		Family	Helminthocladiaceae				
+10228	10224		Family	Liagoraceae		1		
+10229	10224		Family	Scinaiaceae		1		
+10230	10221		Order	Rhodachlyales				
+10231	10230		Family	Rhodachlyaceae				
+10232	1016		Subclass	Rhodymeniophycidae		1		
+10233	10232		Family	Acrochaetiaceae		1		
+10234	10232		Order	Acrochaetiales		1		
+10235	10232		Order	Acrosymphytales		1		
+10236	10235		Family	Acrosymphytaceae		1		
+10237	10232		Order	Balbianiales				
+10238	10237		Family	Balbianiaceae				
+10239	10232		Order	Balliales		1		
+10240	10239		Family	Balliaceae		1		
+10241	10232		Order	Batrachospermales		1		
+10242	10241		Family	Batrachospermaceae				
+10243	10241		Family	Lemaneaceae		1		
+10244	10241		Family	Psilosiphonaceae				
+10245	10232		Order	Bonnemaisoniales		1		
+10246	10245		Family	Bonnemaisoniaceae		1		
+10247	10245		Family	Naccariaceae		1		
+10248	10232		Order	Ceramiales		1		
+10249	10248		Family	Callithamniaceae				
+10250	10248		Family	Ceramiaceae		1		
+10251	10248		Family	Dasyaceae		1		
+10252	10248		Family	Delesseriaceae		1		
+10253	10248		Family	Inkyuleeaceae				
+10254	10248		Family	Rhodomelaceae		1		
+10255	10248		Family	Sarcomeniaceae		1		
+10256	10248		Family	Spyridiaceae		1		
+10257	10248		Family	Wrangeliaceae				
+10258	10232		Order	Colaconematales		1		
+10259	10258		Family	Colaconemataceae		1		
+10260	10232		Order	Gelidiales		1		
+10261	10260		Family	Gelidiaceae		1		
+10262	10260		Family	Gelidiellaceae		1		
+10263	10260		Family	Pterocladiaceae		1		
+10264	10232		Order	Gigartinales		1		
+10265	10264		Family	Acrotylaceae		1		
+10266	10264		Family	Areschougiaceae		1		
+10267	10264		Family	Blinksiaceae		1		
+10268	10264		Family	Calosiphoniaceae		1		
+10269	10264		Family	Catenellopsidaceae		1		
+10270	10264		Family	Caulacanthaceae		1		
+10271	10264		Family	Chondriellaceae		1		
+10272	10264		Family	Chondrymeniaceae				
+10273	10264		Family	Choreocolacaceae		1		
+10274	10264		Family	Corynocystaceae		1		
+10275	10264		Family	Crossocarpaceae		1		
+10276	10264		Family	Cruoriaceae		1		
+10277	10264		Family	Cubiculosporaceae		1		
+10278	10264		Family	Cystocloniaceae		1		
+10279	10264		Family	Dicranemataceae		1		
+10280	10264		Family	Dumontiaceae		1		
+10281	10264		Family	Endocladiaceae		1		
+10282	10264		Family	Furcellariaceae		1		
+10283	10264		Family	Gainiaceae		1		
+10284	10264		Family	Gigartinaceae		1		
+10285	10264		Family	Gloiosiphoniaceae		1		
+10286	10264		Family	Haemeschariaceae		1		
+10287	10264		Family	Hypneaceae		1		
+10288	10264		Family	Kallymeniaceae		1		
+10289	10264		Family	Mychodeaceae		1		
+10290	10264		Family	Mychodeophyllaceae		1		
+10291	10264		Family	Nizymeniaceae		1		
+10292	10264		Family	Phacelocarpaceae		1		
+10293	10264		Family	Phyllophoraceae		1		
+10294		10293	Family	Petrocelidaceae		1		
+10295	10264		Family	Polyidaceae		1		
+10296	10264		Family	Pseudoanemoniaceae		1		
+10297	10264		Family	Rhizophyllidaceae		1		
+10298	10264		Family	Rissoellaceae		1		
+10299	10264		Family	Sarcodiaceae		1		
+10300	10264		Family	Schmiziellaceae				
+10301	10264		Family	Solieriaceae		1		
+10302	10264		Family	Sphaerococcaceae		1		
+10303	10264		Family	Stictosporaceae		1		
+10304	10264		Family	Tichocarpaceae		1		
+10305	10264		Family	Wurdemanniaceae		1		
+10306	10232		Order	Gracilariales		1		
+10307	10306		Family	Gracilariaceae		1		
+10308	10306		Family	Pterocladiophilaceae		1		
+10309	10232		Order	Halymeniales		1		
+10310	10309		Family	Halymeniaceae		1		
+10311	10309		Family	Tsengiaceae				
+10312	10232		Order	Nemastomatales		1		
+10313	10312		Family	Nemastomataceae		1		
+10314	10312		Family	Schizymeniaceae		1		
+10315	10232		Order	Palmariales		1		
+10316	10315		Family	Meiodiscaceae				
+10317	10315		Family	Palmariaceae		1		
+10318	10315		Family	Rhodophysemataceae		1		
+10319	10315		Family	Rhodothamniellaceae		1		
+10320	10232		Order	Peyssonneliales				
+10321	10320		Family	Peyssonneliaceae		1		
+10322		10321	Family	Peyssonnelliaceae				
+10323	10232		Order	Pihiellales		1		
+10324	10323		Family	Pihiellaceae		1		
+10325	10232		Order	Plocamiales		1		
+10326	10325		Family	Plocamiaceae		1		
+10327	10232		Order	Rhodymeniales		1		
+10328	10327		Family	Champiaceae		1		
+10329	10327		Family	Faucheaceae		1		
+10330	10327		Family	Fryeellaceae				
+10331	10327		Family	Hymenocladiaceae				
+10332	10327		Family	Lomentariaceae		1		
+10333	10327		Family	Rhodymeniaceae		1		
+10334	10232		Order	Sebdeniales		1		
+10335	10334		Family	Sebdeniaceae		1		
+10336	10232		Order	Thoreales				
+10337	10336		Family	Thoreaceae				
+10338	104		Subdivision	Metarhodophytina				
+1017	10338		Class	Compsopogonophyceae		1		
+10339	1017		Order	Compsopogonales		1		
+10340	10339		Family	Boldiaceae				
+10341	10339		Family	Compsopogonaceae		1		
+10342	1017		Order	Erythropeltidales		1		
+10343	10342		Family	Erythropeltidaceae		1		
+10344	10342		Family	Erythrotrichiaceae		1		
+10345	1017		Order	Rhodochaetales		1		
+10346	10345		Family	Rhodochaetaceae		1		
+1018	104		Class	Rhodophyceae		1		
+10347	1016		Order	Cryptonemiales		1		
+10348	10347		Family	Corynomorphaceae		1		
+10349	10347		Family	Cryptonemiaceae				
+10350	1016		Order	Sphaerococcales		1		
+10351	104		Subdivision	Rhodophytina		1		
+1019	10351		Class	Porphyridiophyceae				
+10352	1019		Order	Porphyridiales		1		
+10353	10352		Family	Phragmonemataceae		1		
+10354	10352		Family	Porphyridiaceae		1		
+1020	10351		Class	Rhodellophyceae		1		
+10355	1020		Order	Dixoniellales				
+10356	10355		Family	Dixoniellaceae				
+10357	1020		Order	Glaucosphaerales				
+10358	10357		Family	Glaucosphaeraceae				
+10359	1020		Order	Rhodellales				
+10360	10359		Family	Rhodellaceae				
+1021	10351		Class	Stylonematophyceae		1		
+10361	1021		Order	Rufusiales				
+10362	10361		Family	Rufusiaceae				
+10363	1021		Order	Stylonematales		1		
+10364	10363		Family	Stylonemataceae		1		
 
 
 
-7			Kingdom	Chromista		1		
-17638	7		Phylum	Cryptophyta		1		
-368661		17638	Subkingdom	Cryptista		1		
-146220	17638		Subphylum	Cryptomonada		1		
-17639	17638		Class	Cryptophyceae		1		
-17640	17639		Order	Cryptomonadales		1		
-147420		17640	Order	Cryptomonadida				
-150288		17640	Family	Cyathomonadidae				
-22576	17640		Family	Campylomonadaceae		1		
-17644	17640		Family	Cryptomonadaceae		1		
-150286		17644	Family	Cryptomonadidae				
-162802	17640		Family	Cyathomonadaceae				
-17641	17640		Family	Hemiselmidaceae		1		
-178563	17640		Family	Hilleaceae				
-20997	17639		Order	Pyrenomonadales		1		
-20998	20997		Family	Chroomonadaceae		1		
-22582	20997		Family	Geminigeraceae		1		
-20999	20997		Family	Pyrenomonadaceae		1		
-582423	17639		Order	Tetragonidiales				
-599714	582423		Family	Tetragonidiaceae				
-599623	17638		Family	Katablepharidaceae				
-146152		599623	Family	Kathablepharidae		1		
-582422	17638		Class	Goniomonadophyceae				
-22578	582422		Order	Goniomonadales		1		
-22579	22578		Family	Goniomonadaceae		1		
-582424	17638		Class	Katablepharidophyceae				
-582425	582424		Order	Katablepharidales				
-449131	17638		Subphylum	Leucocrypta				
-582426	17638		Class	Telonemea				
-582427	582426		Order	Telonemida				
+2			Kingdom	Protozoa		1		
+106	2		Phylum	Euglenozoa				
+1022	106		Class	Bodonophyceae				
+10365	1022		Order	Bodonales				
+10366	1022		Order	Karotomorphales				
+10367	10366		Family	Karotomorphaceae				
+1023	106		Class	Diplonemea				
+10368	1023		Order	Diplonemida				
+10369	10368		Family	Rhynchopodaceae				
+1024	106		Class	Euglenoidea				
+1025		1024	Class	Euglenophyceae		1		
+10370	1024		Subclass	Aphagia				
+10371	10370		Order	Rhabdomonadida				
+10372	1024		Subclass	Euglenia				
+10373	10372		Order	Euglenida				
+10374	10373		Family	Euglenaceae		1		
+10375		10374	Family	Euglenidae				
+10376	10373		Family	Petalomonadaceae				
+10377	10373		Family	Phacaceae				
+10378	10372		Order	Eutreptiida				
+10379		10378	Order	Eutreptiales		1		
+10380	10378		Family	Astasiaceae		1		
+10381	10378		Family	Eutreptiaceae		1		
+10382	1024		Subclass	Peranemia				
+10383	10382		Order	Peranemida				
+10384	10383		Family	Peranemaceae		1		
+10385	10382		Order	Ploeotiida				
+10386	1024		Subclass	Petalomonadia				
+10387	10386		Order	Petalomonadida				
+1026		1024	Class	Euglenida		1		
+10388	1024		Order	Euglenales		1		
+1027	106		Class	Kinetoplastea				
+1028		1027	Class	Kinetoplastida		1		
+10389	1027		Subclass	Metakinetoplastina				
+10390	10389		Order	Bodonida				
+10391	10389		Order	Eubodonida				
+10392	10391		Family	Bodonaceae				
+10393	10391		Family	Cryptobiaceae				
+10394	10389		Order	Neobodonida				
+10395	10389		Order	Parabodonida				
+10396	10395		Family	Bodonidae		1		
+10397	10389		Order	Trypanosomatida				
+10398	10397		Suborder	Trypanosomatina				
+10399	10398		Family	Trypanosomatidae		1	1	1
+10400	1027		Subclass	Prokinetoplastina				
+10401	10400		Order	Prokinetoplastida				
+1029	106		Class	Postgaardea				
+10402	1029		Order	Postgaardida				
 
-369190	7		Phylum	Haptophyta		1		
-146194		369190	Phylum	Haptomonada		1		
-493971	369190		Family	Alisphaeraceae				
-235834	369190		Family	Ceratolithaceae				
-249727	369190		Class	Pavlovophyceae				
-249728		249727	Subclass	Pavlovophycidae				
-249729	249727		Order	Pavlovales				
-249730	249729		Family	Pavlovaceae				
-115057	369190		Class	Prymnesiophyceae		1		
-592906		115057	Class	Coccolithophyceae				
-147428		115057	Order	Prymnesiida				
-236093		115057	Subclass	Prymnesiophycidae		1		
-21002		115057	Phylum	Prymnesiophyta		1		
-493821	115057		Order	Coccolithales				
-291412	493821		Family	Calcidiscaceae		1		
-178597	493821		Family	Coccolithaceae				
-115071	493821		Family	Hymenomonadaceae		1		
-493883	493821		Family	Pleurochrysidaceae				
-236110	493821		Family	Reticulosphaeraceae				
-115059	115057		Order	Coccosphaerales		1		
-146233		115059	Order	Coccolithophorales		1		
-235832	115059		Family	Braarudosphaeraceae				
-115064	115059		Family	Calyptrosphaeraceae		1		
-115065	115059		Family	Deflandriaceae		1		
-146197		115065	Family	Papposphaeraceae		1		
-115066	115059		Family	Halopappaceae		1		
-115060	115057		Order	Isochrysidales		1		
-115070	115060		Family	Gephyrocapsaceae		1		
-146201	115060		Family	Isochrysidaceae		1		
-146200	115060		Family	Noelaerhabdaceae		1		
-577970	115057		Order	Phaeocystales				
-115072	577970		Family	Phaeocystaceae		1		
-115061	115057		Order	Prymnesiales		1		
-599689	115061		Family	Chrysochromulinaceae				
-238354	115061		Family	Chrysotilaceae				
-115073	115061		Family	Prymnesiaceae		1		
-493820	115057		Order	Syracosphaerales				
-235833	493820		Family	Calciosoleniaceae				
-115068	493820		Family	Rhabdosphaeraceae		1		
-146199	493820		Family	Syracosphaeraceae		1		
-236094	115057		Order	Zygodiscales				
-235836	236094		Family	Helicosphaeraceae				
-115067	236094		Family	Pontosphaeraceae		1		
-150290		115067	Family	Pontosphaeridae				
+107	2		Phylum	Loukozoa				
+1030	107		Class	Jakobea				
+10403	1030		Order	Jakobida				
+10404	10403		Family	Histionidae				
+10405	10403		Family	Jakobidae				
+1031	107		Class	Malawimonadea				
+10406	1031		Order	Malawimonadida				
+108	2		Phylum	Metamonada				
+10407	108		Subphylum	Anaeromonada				
+1032	10407		Class	Anaeromonadea				
+10408	1032		Order	Oxymonadida				
+10409	1032		Order	Trimastigida				
+10410	108		Subphylum	Trichozoa				
+10411	10410		Superclass	Carpediemonadia				
+1033	10411		Class	Carpediemonadea				
+10412	1033		Order	Carpediemonadida				
+10413	10410		Superclass	Eopharyngia				
+1034	10413		Class	Retortamonadea		1	0	1
+10414	1034		Order	Retortamonadida		1	0	1
+10415	10414		Family	Retortamonadidae		1	0	0
+1035	10413		Class	Trepomonadea		1	0	1
+10416	1035		Subclass	Diplozoa		1	0	1
+10417	10416		Order	Distomatida		1	0	1
+10418	10417		Family	Enteromonadidae		1	0	0
+10419	10417		Family	Hexamitidae		1	0	1
+10420	10416		Order	Giardiida				
+10421	1035		Subclass	Enteromonadia				
+10422	10421		Order	Enteromonadida				
+10423	10410		Superclass	Parabasalia				
+1036	10423		Class	Trichomonadea		1	0	1
+10424	1036		Order	Lophomonadida				
+10425	1036		Order	Spirotrichonymphida				
+10426	1036		Order	Trichomonadida		1	0	1
+10427	10426		Family	Monocercomonadidae				
+1037	10423		Class	Trichonymphea				
+10428	1037		Order	Trichonymphida				
 
-345465	7		Phylum	Ochrophyta		1		
-370437		345465	Phylum	Heterokontophyta		1		
-146192		345465	Phylum	Chrysomonada		1		
-576884	345465		Subphylum	Khakista				
-148899	576884		Class	Bacillariophyceae		1		
-148898		148899	Phylum	Bacillariophyta		1		
-591185		148899	Class	Diatomeae				
-478546		148899	Class	Diatomophyceae				
-148950		148899	Class	Fragilariophyceae		1		
-148902	148899		Subclass	Bacillariophycidae		1		
-591186	148902		Superorder	Bacillariophycanae				
-148987	591186		Order	Achnanthales		1		
-149190	148987		Family	Achnanthaceae		1		
-163530	148987		Family	Achnanthidiaceae		1		
-148988	148987		Family	Cocconeidaceae		1		
-149001	591186		Order	Bacillariales		1		
-149002	149001		Family	Bacillariaceae		1		
-478555		149002	Family	Nitzschiaceae				
-149389	591186		Order	Cymbellales		1		
-149410	149389		Family	Anomoeoneidaceae		1		
-149537	149389		Family	Cymbellaceae		1		
-149552	149389		Family	Gomphonemataceae		1		
-149390	149389		Family	Rhoicospheniaceae		1		
-591187	591186		Order	Dictyoneidales				
-414800	591187		Family	Dictyoneidaceae				
-163680	591186		Order	Lyrellales		1		
-573996	163680		Family	Lyrellaceae				
-157050	591186		Order	Mastogloiales		1		
-157051	157050		Family	Mastogloiaceae		1		
-149015	591186		Order	Naviculales		1		
-149642	149015		Family	Amphipleuraceae		1		
-149017	149015		Family	Diploneidaceae		1		
-149016	149015		Suborder	Diploneidineae		1		
-149031	149015		Family	Naviculaceae		1		
-149030	149015		Suborder	Naviculineae		1		
-149515	149030		Family	Plagiotropidaceae		1		
-177873	149030		Family	Proschkiniaceae		1		
-149641	149015		Suborder	Neidiineae		1		
-177859	149641		Family	Berkeleyaceae		1		
-157058	149641		Family	Brachysiraceae		1		
-163842	149641		Family	Cavinulaceae		1		
-163889	149641		Family	Cosmioneidaceae		1		
-172643	149641		Family	Diadesmidaceae		1		
-175341	149641		Family	Neidiaceae		1		
-177871	149015		Suborder	Phaeodactylineae		1		
-175581	177871		Family	Phaeodactylaceae		1		
-149207	149015		Family	Pinnulariaceae		1		
-149032	149015		Family	Pleurosigmataceae		1		
-414885	149015		Family	Scolioneidaceae				
-149485	149015		Family	Scoliotropidaceae				
-157077	149015		Family	Sellaphoraceae		1		
-149206	149015		Suborder	Sellaphorineae		1		
-149076	149015		Family	Stauroneidaceae		1		
-149024	591186		Order	Rhopalodiales		1		
-836368	149024		Family	Epithemiaceae				
-149025	149024		Family	Rhopalodiaceae		1		
-149005	591186		Order	Surirellales		1		
-149520	149005		Family	Auriculaceae		1		
-149659	149005		Family	Entomoneidaceae		1		
-149006	149005		Family	Surirellaceae		1		
-149198	591186		Order	Thalassiophysales		1		
-149199	149198		Family	Catenulaceae		1		
-176369	149198		Family	Thalassiophysaceae		1		
-149063	148902		Order	Rhaponeidales		1		
-177855	149063		Family	Psammodiscaceae		1		
-149064	149063		Family	Rhaphoneidaceae		1		
-591188	148902		Superorder	Eunotiophycanae				
-149400	591188		Order	Eunotiales		1		
-149401	149400		Family	Eunotiaceae		1		
-599651	149400		Family	Peroniaceae				
-341285	148899		Order	Centrales				
-148971	148899		Subclass	Coscinodiscophycidae		1		
-148900		148971	Class	Coscinodiscophyceae		1		
-591192	148971		Superorder	Biddulphianae				
-148972		591192	Subclass	Biddulphiophycidae		1		
-160525	591192		Order	Anaulales		1		
-160526	160525		Family	Anaulaceae		1		
-148965	591192		Order	Biddulphiales		1		
-148966	148965		Family	Biddulphiaceae		1		
-149234	591192		Order	Hemiaulales		1		
-149304	149234		Family	Bellerocheaceae		1		
-149235	149234		Family	Hemiaulaceae		1		
-149301	149234		Family	Streptothecaceae		1		
-149048	591192		Order	Triceratiales		1		
-149660		149048	Order	Eupodiscales				
-149353	149048		Family	Plagiogrammaceae		1		
-149049	149048		Family	Triceratiaceae		1		
-148962		149049	Family	Eupodiscaceae				
-591197	148971		Superorder	Chaetocerotanae				
-148983		591197	Order	Chaetocerotales		1		
-148977		591197	Subclass	Chaetocerotophycidae		1		
-591198	591197		Order	Chaetocerales				
-162752	591197		Family	Acanthocerataceae		1		
-160518	591197		Family	Attheyaceae		1		
-148984	591197		Family	Chaetocerotaceae		1		
-149036	591197		Order	Leptocylindrales		1		
-149037	149036		Family	Leptocylindraceae		1		
-591194	148971		Superorder	Corethranae				
-148974		591194	Subclass	Corethrophycidae		1		
-149107	591194		Order	Corethrales		1		
-149108	149107		Family	Corethraceae		1		
-591190	148971		Superorder	Coscinodiscanae				
-430067	591190		Order	Arachnoidiscales		1		
-430068	430067		Family	Arachnoidiscaceae		1		
-162250	591190		Order	Asterolamprales		1		
-162251	162250		Family	Asterolampraceae		1		
-148957	591190		Order	Aulacoseirales		1		
-148958	148957		Family	Aulacoseiraceae		1		
-380896	591190		Order	Chrysanthemodiscales		1		
-380897	380896		Family	Chrysanthemodiscaceae		1		
-148915	591190		Order	Coscinodiscales		1		
-149278	148915		Family	Aulacodiscaceae		1		
-148916	148915		Family	Coscinodiscaceae		1		
-196825	148915		Family	Gossleriellaceae				
-148946	148915		Family	Heliopeltaceae		1		
-148943	148915		Family	Hemidiscaceae		1		
-599621	148915		Family	Hemipeltaceae				
-599622	148915		Family	Rocellaceae				
-148938	591190		Order	Ethmodiscales				
-148939	148938		Family	Ethmodiscaceae				
-149040	591190		Order	Melosirales		1		
-157442	149040		Family	Endictyaceae				
-149058	149040		Family	Hyalodiscaceae		1		
-149041	149040		Family	Melosiraceae		1		
-149254	149040		Family	Stephanopyxidaceae		1		
-163295	591190		Order	Orthoseirales		1		
-163296	163295		Family	Orthoseiraceae		1		
-149052	591190		Order	Paraliales		1		
-149053	149052		Family	Paraliaceae		1		
-591191	591190		Order	Stictocycales				
-414751	591190		Order	Stictodiscales				
-599709	414751		Family	Benetoraceae				
-414895	414751		Family	Stictodiscaceae				
-591195	148971		Superorder	Cymatosirophycanae				
-148975		591195	Subclass	Cymatosirophycidae		1		
-149009	591195		Order	Cymatosirales		1		
-149010	149009		Family	Cymatosiraceae		1		
-599629	149009		Family	Rutilariaceae				
-591193	148971		Superorder	Lithodesmiophycanae				
-148973		591193	Subclass	Lithodesmiophycidae		1		
-149020	591193		Order	Lithodesmiales		1		
-149021	149020		Family	Lithodesmiaceae		1		
-591196	148971		Superorder	Rhizosolenianae				
-148976		591196	Subclass	Rhizosoleniophycidae		1		
-149067	591196		Order	Rhizosoleniales		1		
-163376	149067		Family	Pyxillaceae		1		
-149068	149067		Family	Rhizosoleniaceae		1		
-599707	148971		Order	Stictocyclales				
-599708	599707		Family	Stictocyclaceae				
-591189	148971		Superorder	Thalassiosiranae				
-148970		591189	Subclass	Thalassiosirophycidae		1		
-148903	591189		Order	Thalassiosirales		1		
-149133	148903		Family	Lauderiaceae		1		
-149072	148903		Family	Skeletonemaceae		1		
-148994	148903		Family	Stephanodiscaceae		1		
-148904	148903		Family	Thalassiosiraceae		1		
-599719	148903		Family	Thalassiosiropsidaceae				
-836373	148903		Family	Trochosiraceae				
-148978	148899		Subclass	Fragilariophycidae		1		
-591199	148978		Superorder	Fragilariophycanae				
-163701	591199		Order	Ardissoneales		1		
-163702	163701		Family	Ardissoneaceae		1		
-248079	591199		Order	Climacospheniales				
-248080	248079		Family	Climacospheniaceae				
-248083	591199		Order	Cyclophorales				
-450715	248083		Family	Cyclophoraceae				
-248084	248083		Family	Entopylaceae				
-148951	591199		Order	Fragilariales		1		
-148952	148951		Family	Fragilariaceae		1		
-149620	591199		Order	Licmophorales		1		
-149341	149620		Family	Licmophoraceae		1		
-414747	591199		Order	Protoraphidales				
-414873	414747		Family	Protoraphidaceae				
-157070	591199		Order	Rhabdonematales		1		
-157071	157070		Family	Rhabdonemataceae		1		
-591200	591199		Order	Rhaphoneidales				
-149174	591199		Order	Striatellales		1		
-149175	149174		Family	Striatellaceae		1		
-149331	591199		Order	Tabellariales		1		
-149332	149331		Family	Tabellariaceae		1		
-149090	591199		Order	Thalassionematales		1		
-149091	149090		Family	Thalassionemataceae		1		
-248072	591199		Order	Toxariales				
-248073	248072		Family	Toxariaceae				
-345466	576884		Class	Bolidophyceae		1		
-345467	345466		Order	Bolidomonadales		1		
-345468	345467		Family	Bolidomonadaceae		1		
-345483	576884		Class	Mediophyceae		1		
-588641	345465		Subphylum	Phaeista				
-591205	588641		Infraphylum	Limnista				
-146230	591205		Class	Chrysophyceae		1		
-147426		146230	Order	Chrysomonadida				
-17166		146230	Phylum	Chrysophyta		1		
-573911	146230		Order	Chloramoebales				
-573912	573911		Family	Chloramoebaceae				
-248107	146230		Order	Chromulinales				
-178642		248107	Order	Chromalinales				
-248108	248107		Family	Chrysamoebaceae				
-509592	248107		Family	Chrysocapsaceae				
-160547	248107		Family	Chrysococcaceae				
-573978	248107		Family	Chrysolepidomonadaceae				
-577558	248107		Family	Chrysosphaeraceae				
-599616	248107		Family	Chrysothallaceae				
-157239	248107		Family	Dinobryaceae				
-591201	146230		Order	Chrysosphaerales				
-456711	146230		Order	Heterogloeales				
-456712	456711		Family	Heterogloeaceae				
-572044	146230		Order	Hibberdiales				
-599666	572044		Family	Hibberdiaceae				
-572045	572044		Family	Stylococcaceae				
-577669	146230		Order	Hydrurales				
-577671	577669		Family	Hydruraceae				
-157237	146230		Order	Ochromonadales		1		
-160546	157237		Family	Chromulinaceae				
-368876	157237		Family	Ochromonadaceae		1		
-291416	157237		Family	Paraphysomonadaceae		1		
-341336	146230		Order	Parmales		1		
-341337	341336		Family	Pentalaminaceae		1		
-341355	341336		Family	Triparmaceae		1		
-345523	146230		Order	Synurales		1		
-573888	345523		Family	Mallomonadaceae				
-178593	345523		Family	Synuraceae				
-591204	146230		Order	Thallochrysidales				
-599720	591204		Family	Thallochrysidaceae				
-345487	591205		Class	Eustigmatophyceae		1		
-368685	345487		Order	Eustigmatales		1		
-571989	368685		Family	Chlorobothryaceae				
-573997	368685		Family	Eustigmataceae				
-599652	368685		Family	Loboceae				
-345488	368685		Family	Monodopsidaceae		1		
-599653	368685		Family	Pseudocharaciopsidaceae				
-588642	591205		Superclass	Fucistia				
-590472	588642		Class	Aurearenophyceae		1		
-590473	590472		Order	Aurearenales		1		
-590474	590473		Family	Aurearenaceae		1		
-590462	588642		Class	Chrysomerophyceae		1		
-590463	590462		Order	Chrysomeridales		1		
-590464	590463		Family	Chrysomeridaceae		1		
-830	588642		Class	Phaeophyceae		1		
-146234		830	Phylum	Phaeophycota		1		
-829		830	Phylum	Phaeophyta		1		
-325412	830		Order	Ascoseirales		1		
-368710	325412		Family	Ascoseiraceae		1		
-325413	325412		Family	Ascoseriaceae		1		
-599589	830		Order	Asterocladales				
-599590	599589		Family	Asterocladaceae				
-368699	830		Order	Choristocarpales		1		
-22968	830		Order	Cutleriales		1		
-143701	22968		Family	Cutleriaceae		1		
-21237	830		Order	Desmarestiales		1		
-143704	21237		Family	Arthrocladiaceae		1		
-143705	21237		Family	Desmarestiaceae		1		
-836	830		Order	Dictyosiphonales		1		
-143707	836		Family	Buffhamiaceae		1		
-143708	836		Family	Coilodesmaceae		1		
-143709	836		Family	Delamareaceae		1		
-143710	836		Family	Dictyosiphonaceae		1		
-143711	836		Family	Giraudiaceae		1		
-143712	836		Family	Myriotrichiaceae		1		
-143713	836		Family	Pogotrichiaceae		1		
-143714	836		Family	Punctariaceae		1		
-143715	836		Family	Striariaceae		1		
-839	830		Order	Dictyotales		1		
-143716	839		Family	Dictyotaceae		1		
-368758	839		Family	Scoresbyellaceae		1		
-493825	830		Order	Discosporangiales				
-143781	493825		Family	Choristocarpaceae		1		
-842	830		Order	Ectocarpales		1		
-147106	842		Family	Acinetosporaceae		1		
-325411	842		Family	Adenocystaceae		1		
-143680	842		Family	Chordariaceae		1		
-196188	842		Family	Chordariopsidaceae		1		
-143717	842		Family	Ectocarpaceae		1		
-143718	842		Family	Lithodermataceae		1		
-368759	842		Family	Mesosporaceae		1		
-143683	842		Family	Myrionemataceae		1		
-599642	842		Family	Petrospongiaceae				
-143719	842		Family	Pilayellaceae		1		
-368760	842		Family	Pylaiellaceae		1		
-143720	842		Family	Sorocarpaceae		1		
-844	830		Order	Fucales		1		
-368761	844		Family	Bifurcariopsidaceae		1		
-368762	844		Family	Durvillaeaceae		1		
-143723	844		Family	Fucaceae		1		
-143724	844		Family	Himanthaliaceae		1		
-368763	844		Family	Hormosiraceae		1		
-368764	844		Family	Notheiaceae		1		
-143725	844		Family	Sargassaceae		1		
-143722		143725	Family	Cystoseiraceae		1		
-325417	844		Family	Seirococcaceae		1		
-599654	844		Family	Xiphophoraceae				
-368700	830		Order	Ishigeales		1		
-368781	368700		Family	Ishigeaceae		1		
-845	830		Order	Laminariales		1		
-368783	845		Family	Akkesiphycaceae		1		
-143753	845		Family	Alariaceae		1		
-143754	845		Family	Chordaceae		1		
-368784	845		Family	Costariaceae		1		
-143755	845		Family	Laminariaceae		1		
-196198	845		Family	Lessoniaceae		1		
-368785	845		Family	Pseudochordaceae		1		
-368701	830		Order	Nemodermatales		1		
-368874	368701		Family	Nemodermataceae		1		
-368702	830		Order	Onslowiales		1		
-368877	368702		Family	Onslowiaceae		1		
-368779	830		Family	Phaeosiphoniellaceae		1		
-368780	830		Family	Phaeostrophiaceae		1		
-368704	830		Order	Phaeothamniales		1		
-157469	368704		Family	Phaeosaccionaceae				
-368879	368704		Family	Phaeothamniaceae		1		
-591208	830		Order	Pleurochloridellales				
-163325	830		Order	Ralfsiales		1		
-493896	163325		Family	Neoralfsiaceae				
-143684	163325		Family	Ralfsiaceae		1		
-850	830		Order	Scytosiphonales		1		
-196262	850		Family	Chnoosporaceae		1		
-143777	850		Family	Scytosiphonaceae		1		
-368703	830		Order	Scytothamnales		1		
-599700	368703		Family	Asteronemataceae				
-599701	368703		Family	Bachelotiaceae				
-368889	368703		Family	Scytothamnaceae		1		
-196190	368703		Family	Splachnidiaceae		1		
-1028	830		Order	Sphacelariales		1		
-599702	1028		Family	Cladostephaceae				
-143782	1028		Family	Sphacelariaceae		1		
-599703	1028		Family	Sphacelodermaceae				
-143783	1028		Family	Stypocaulaceae		1		
-22976	830		Order	Sporochnales		1		
-143785	22976		Family	Sporochnaceae		1		
-22977	830		Order	Syringodermatales		1		
-143786	22977		Family	Syringodermataceae		1		
-22978	830		Order	Tilopteridales		1		
-368892	22978		Family	Halosiphonaceae		1		
-368893	22978		Family	Masonophycaceae		1		
-143756	22978		Family	Phyllariaceae		1		
-368894	22978		Family	Stschapoviaceae		1		
-143788	22978		Family	Tilopteridaceae		1		
-368667	588642		Class	Phaeothamniophyceae		1		
-393292	588642		Class	Schizocladiophyceae				
-393293	393292		Order	Schizocladiales				
-393294	393293		Family	Schizocladiaceae				
-17793	588642		Class	Xanthophyceae		1		
-147427		17793	Order	Heterochlorida				
-21539		17793	Phylum	Xanthophyta		1		
-295860	17793		Order	Botrydiales				
-295861	295860		Family	Botrydiaceae				
-115058	17793		Order	Mischococcales		1		
-599673	115058		Family	Botrydiopsidaceae				
-599674	115058		Family	Botryochloridaceae				
-163944	115058		Family	Centritractaceae				
-163950	115058		Family	Characiopsidaceae				
-599675	115058		Family	Chloropediaceae				
-577729	115058		Family	Gloeobotrydaceae				
-599676	115058		Family	Gloeopodiaceae				
-599677	115058		Family	Mischococcaceae				
-577562	115058		Family	Ophiocytiaceae				
-115063	115058		Family	Pleurochloridaceae		1		
-599678	115058		Family	Trypanochloridaceae				
-599685	17793		Order	Phyllosiphonales				
-599686	599685		Family	Phyllosiphonaceae				
-368709	17793		Order	Rhizochloridales		1		
-599691	368709		Family	Myxochloridaceae				
-368884	368709		Family	Rhizochloridaceae		1		
-599692	368709		Family	Rhizogranulochloridaceae				
-599693	368709		Family	Rhizounochloridaceae				
-599694	368709		Family	Stipitococcaceae				
-577610	17793		Order	Tribonematales				
-599723	577610		Family	Heterodendraceae				
-577611	577610		Family	Heteropediaceae				
-599724	577610		Family	Neonemataceae				
-143796	577610		Family	Tribonemataceae		1		
-577731	577610		Family	Xanthonemataceae				
-21627	17793		Order	Vaucheriales		1		
-143797	21627		Family	Vaucheriaceae		1		
-591206	591205		Class	Picophagea				
-590435		591206	Class	Picophagophyceae		1		
-591207	591206		Order	Chlamydomyxales				
-599745	591207		Family	Chlamydomyxaceae				
-590436	591206		Order	Picophagales		1		
-590437	590436		Family	Picophagaceae		1		
-590428	591205		Class	Synchromophyceae		1		
-590429	590428		Order	Synchromales		1		
-590431	590429		Family	Synchromaceae		1		
-591209	588641		Infraphylum	Monista				
-588643	591209		Superclass	Hypogyristia				
-146232	588643		Class	Dictyochophyceae		1		
-591210	146232		Subclass	Alophycidae				
-591212	591210		Superorder	Actinochrysia				
-160597	591212		Order	Pedinellales		1		
-146231		160597	Class	Pedinellophyceae		1		
-368878	160597		Family	Cyrtophoraceae		1		
-160598	160597		Family	Pedinellaceae		1		
-591214	591212		Order	Silicoflagellata				
-591213	591210		Superorder	Pelagophycia				
-345501	591213		Order	Pelagomonadales		1		
-345502	345501		Family	Pelagomonadaceae		1		
-157466	591213		Order	Sarcinochrysidales		1		
-368887	157466		Family	Sarcinochrysidaceae		1		
-157256	146232		Order	Dictyochales		1		
-378496		157256	Order	Silicoflagellida		1		
-157257	157256		Family	Dictyochaceae		1		
-368683	146232		Order	Florenciellales		1		
-591211	146232		Subclass	Pinguiophycidae				
-345508	591211		Order	Pinguiochrysidales		1		
-345509	345508		Family	Pinguiochrysidaceae		1		
-178596	146232		Order	Rhizochromulinales				
-368885	178596		Family	Rhizochromulinaceae		1		
-345500	588643		Class	Pelagophyceae		1		
-588644	591209		Superclass	Raphidoistia				
-345507	588644		Class	Pinguiophyceae		1		
-160581	588644		Class	Raphidophyceae		1		
-160582	160581		Order	Chattonellales		1		
-160583	160582		Family	Chattonellaceae		1		
-246828	160582		Family	Vacuolariaceae		1		
-591215	160581		Order	Raphidomonadales				
-345522	588641		Class	Synurophyceae		1		
-393287	345465		Class	Placidiophyceae				
-393288	393287		Order	Placidiales				
+
+
+3			Kingdom	Chromista		1		
+109	3		Phylum	Cryptophyta		1		
+10429		109	Subkingdom	Cryptista		1		
+10430	109		Subphylum	Cryptomonada		1		
+1038	109		Class	Cryptophyceae		1		
+10431	1038		Order	Cryptomonadales		1		
+10432		10431	Order	Cryptomonadida				
+10433		10431	Family	Cyathomonadidae				
+10434	10431		Family	Campylomonadaceae		1		
+10435	10431		Family	Cryptomonadaceae		1		
+10436		10435	Family	Cryptomonadidae				
+10437	10431		Family	Cyathomonadaceae				
+10438	10431		Family	Hemiselmidaceae		1		
+10439	10431		Family	Hilleaceae				
+10440	1038		Order	Pyrenomonadales		1		
+10441	10440		Family	Chroomonadaceae		1		
+10442	10440		Family	Geminigeraceae		1		
+10443	10440		Family	Pyrenomonadaceae		1		
+10444	1038		Order	Tetragonidiales				
+10445	10444		Family	Tetragonidiaceae				
+10446	109		Family	Katablepharidaceae				
+10447		10446	Family	Kathablepharidae		1		
+1039	109		Class	Goniomonadophyceae				
+10448	1039		Order	Goniomonadales		1		
+10449	10448		Family	Goniomonadaceae		1		
+1040	109		Class	Katablepharidophyceae				
+10450	1040		Order	Katablepharidales				
+10451	109		Subphylum	Leucocrypta				
+1041	109		Class	Telonemea				
+10452	1041		Order	Telonemida				
+
+110	3		Phylum	Haptophyta		1		
+111		110	Phylum	Haptomonada		1		
+10453	110		Family	Alisphaeraceae				
+10454	110		Family	Ceratolithaceae				
+1042	110		Class	Pavlovophyceae				
+10455		1042	Subclass	Pavlovophycidae				
+10456	1042		Order	Pavlovales				
+10457	10456		Family	Pavlovaceae				
+1043	110		Class	Prymnesiophyceae		1		
+1044		1043	Class	Coccolithophyceae				
+10458		1043	Order	Prymnesiida				
+10459		1043	Subclass	Prymnesiophycidae		1		
+112		1043	Phylum	Prymnesiophyta		1		
+10460	1043		Order	Coccolithales				
+10461	10460		Family	Calcidiscaceae		1		
+10462	10460		Family	Coccolithaceae				
+10463	10460		Family	Hymenomonadaceae		1		
+10464	10460		Family	Pleurochrysidaceae				
+10465	10460		Family	Reticulosphaeraceae				
+10466	1043		Order	Coccosphaerales		1		
+10467		10466	Order	Coccolithophorales		1		
+10468	10466		Family	Braarudosphaeraceae				
+10469	10466		Family	Calyptrosphaeraceae		1		
+10470	10466		Family	Deflandriaceae		1		
+10471		10470	Family	Papposphaeraceae		1		
+10472	10466		Family	Halopappaceae		1		
+10473	1043		Order	Isochrysidales		1		
+10474	10473		Family	Gephyrocapsaceae		1		
+10475	10473		Family	Isochrysidaceae		1		
+10476	10473		Family	Noelaerhabdaceae		1		
+10477	1043		Order	Phaeocystales				
+10478	10477		Family	Phaeocystaceae		1		
+10479	1043		Order	Prymnesiales		1		
+10480	10479		Family	Chrysochromulinaceae				
+10481	10479		Family	Chrysotilaceae				
+10482	10479		Family	Prymnesiaceae		1		
+10483	1043		Order	Syracosphaerales				
+10484	10483		Family	Calciosoleniaceae				
+10485	10483		Family	Rhabdosphaeraceae		1		
+10486	10483		Family	Syracosphaeraceae		1		
+10487	1043		Order	Zygodiscales				
+10488	10487		Family	Helicosphaeraceae				
+10489	10487		Family	Pontosphaeraceae		1		
+10490		10489	Family	Pontosphaeridae				
+
+113	3		Phylum	Ochrophyta		1		
+114		113	Phylum	Heterokontophyta		1		
+115		113	Phylum	Chrysomonada		1		
+10491	113		Subphylum	Khakista				
+1045	10491		Class	Bacillariophyceae		1		
+116		1045	Phylum	Bacillariophyta		1		
+1046		1045	Class	Diatomeae				
+1047		1045	Class	Diatomophyceae				
+1048		1045	Class	Fragilariophyceae		1		
+10492	1045		Subclass	Bacillariophycidae		1		
+10493	10492		Superorder	Bacillariophycanae				
+10494	10493		Order	Achnanthales		1		
+10495	10494		Family	Achnanthaceae		1		
+10496	10494		Family	Achnanthidiaceae		1		
+10497	10494		Family	Cocconeidaceae		1		
+10498	10493		Order	Bacillariales		1		
+10499	10498		Family	Bacillariaceae		1		
+10500		10499	Family	Nitzschiaceae				
+10501	10493		Order	Cymbellales		1		
+10502	10501		Family	Anomoeoneidaceae		1		
+10503	10501		Family	Cymbellaceae		1		
+10504	10501		Family	Gomphonemataceae		1		
+10505	10501		Family	Rhoicospheniaceae		1		
+10506	10493		Order	Dictyoneidales				
+10507	10506		Family	Dictyoneidaceae				
+10508	10493		Order	Lyrellales		1		
+10509	10508		Family	Lyrellaceae				
+10510	10493		Order	Mastogloiales		1		
+10511	10510		Family	Mastogloiaceae		1		
+10512	10493		Order	Naviculales		1		
+10513	10512		Family	Amphipleuraceae		1		
+10514	10512		Family	Diploneidaceae		1		
+10515	10512		Suborder	Diploneidineae		1		
+10516	10512		Family	Naviculaceae		1		
+10517	10512		Suborder	Naviculineae		1		
+10518	10517		Family	Plagiotropidaceae		1		
+10519	10517		Family	Proschkiniaceae		1		
+10520	10512		Suborder	Neidiineae		1		
+10521	10520		Family	Berkeleyaceae		1		
+10522	10520		Family	Brachysiraceae		1		
+10523	10520		Family	Cavinulaceae		1		
+10524	10520		Family	Cosmioneidaceae		1		
+10525	10520		Family	Diadesmidaceae		1		
+10526	10520		Family	Neidiaceae		1		
+10527	10512		Suborder	Phaeodactylineae		1		
+10528	10527		Family	Phaeodactylaceae		1		
+10529	10512		Family	Pinnulariaceae		1		
+10530	10512		Family	Pleurosigmataceae		1		
+10531	10512		Family	Scolioneidaceae				
+10532	10512		Family	Scoliotropidaceae				
+10533	10512		Family	Sellaphoraceae		1		
+10534	10512		Suborder	Sellaphorineae		1		
+10535	10512		Family	Stauroneidaceae		1		
+10536	10493		Order	Rhopalodiales		1		
+10537	10536		Family	Epithemiaceae				
+10538	10536		Family	Rhopalodiaceae		1		
+10539	10493		Order	Surirellales		1		
+10540	10539		Family	Auriculaceae		1		
+10541	10539		Family	Entomoneidaceae		1		
+10542	10539		Family	Surirellaceae		1		
+10543	10493		Order	Thalassiophysales		1		
+10544	10543		Family	Catenulaceae		1		
+10545	10543		Family	Thalassiophysaceae		1		
+10546	10492		Order	Rhaponeidales		1		
+10547	10546		Family	Psammodiscaceae		1		
+10548	10546		Family	Rhaphoneidaceae		1		
+10549	10492		Superorder	Eunotiophycanae				
+10550	10549		Order	Eunotiales		1		
+10551	10550		Family	Eunotiaceae		1		
+10552	10550		Family	Peroniaceae				
+10553	1045		Order	Centrales				
+10554	1045		Subclass	Coscinodiscophycidae		1		
+1049		10554	Class	Coscinodiscophyceae		1		
+10555	10554		Superorder	Biddulphianae				
+10556		10555	Subclass	Biddulphiophycidae		1		
+10557	10555		Order	Anaulales		1		
+10558	10557		Family	Anaulaceae		1		
+10559	10555		Order	Biddulphiales		1		
+10560	10559		Family	Biddulphiaceae		1		
+10561	10555		Order	Hemiaulales		1		
+10562	10561		Family	Bellerocheaceae		1		
+10563	10561		Family	Hemiaulaceae		1		
+10564	10561		Family	Streptothecaceae		1		
+10565	10555		Order	Triceratiales		1		
+10566		10565	Order	Eupodiscales				
+10567	10565		Family	Plagiogrammaceae		1		
+10568	10565		Family	Triceratiaceae		1		
+10569		10568	Family	Eupodiscaceae				
+10570	10554		Superorder	Chaetocerotanae				
+10571		10570	Order	Chaetocerotales		1		
+10572		10570	Subclass	Chaetocerotophycidae		1		
+10573	10570		Order	Chaetocerales				
+10574	10570		Family	Acanthocerataceae		1		
+10575	10570		Family	Attheyaceae		1		
+10576	10570		Family	Chaetocerotaceae		1		
+10577	10570		Order	Leptocylindrales		1		
+10578	10577		Family	Leptocylindraceae		1		
+10579	10554		Superorder	Corethranae				
+10580		10579	Subclass	Corethrophycidae		1		
+10581	10579		Order	Corethrales		1		
+10582	10581		Family	Corethraceae		1		
+10583	10554		Superorder	Coscinodiscanae				
+10584	10583		Order	Arachnoidiscales		1		
+10585	10584		Family	Arachnoidiscaceae		1		
+10586	10583		Order	Asterolamprales		1		
+10587	10586		Family	Asterolampraceae		1		
+10588	10583		Order	Aulacoseirales		1		
+10589	10588		Family	Aulacoseiraceae		1		
+10590	10583		Order	Chrysanthemodiscales		1		
+10591	10590		Family	Chrysanthemodiscaceae		1		
+10592	10583		Order	Coscinodiscales		1		
+10593	10592		Family	Aulacodiscaceae		1		
+10594	10592		Family	Coscinodiscaceae		1		
+10595	10592		Family	Gossleriellaceae				
+10596	10592		Family	Heliopeltaceae		1		
+10597	10592		Family	Hemidiscaceae		1		
+10598	10592		Family	Hemipeltaceae				
+10599	10592		Family	Rocellaceae				
+10600	10583		Order	Ethmodiscales				
+10601	10600		Family	Ethmodiscaceae				
+10602	10583		Order	Melosirales		1		
+10603	10602		Family	Endictyaceae				
+10604	10602		Family	Hyalodiscaceae		1		
+10605	10602		Family	Melosiraceae		1		
+10606	10602		Family	Stephanopyxidaceae		1		
+10607	10583		Order	Orthoseirales		1		
+10608	10607		Family	Orthoseiraceae		1		
+10609	10583		Order	Paraliales		1		
+10610	10609		Family	Paraliaceae		1		
+10611	10583		Order	Stictocycales				
+10612	10583		Order	Stictodiscales				
+10613	10612		Family	Benetoraceae				
+10614	10612		Family	Stictodiscaceae				
+10615	10554		Superorder	Cymatosirophycanae				
+10616		10615	Subclass	Cymatosirophycidae		1		
+10617	10615		Order	Cymatosirales		1		
+10618	10617		Family	Cymatosiraceae		1		
+10619	10617		Family	Rutilariaceae				
+10620	10554		Superorder	Lithodesmiophycanae				
+10621		10620	Subclass	Lithodesmiophycidae		1		
+10622	10620		Order	Lithodesmiales		1		
+10623	10622		Family	Lithodesmiaceae		1		
+10624	10554		Superorder	Rhizosolenianae				
+10625		10624	Subclass	Rhizosoleniophycidae		1		
+10626	10624		Order	Rhizosoleniales		1		
+10627	10626		Family	Pyxillaceae		1		
+10628	10626		Family	Rhizosoleniaceae		1		
+10629	10554		Order	Stictocyclales				
+10630	10629		Family	Stictocyclaceae				
+10631	10554		Superorder	Thalassiosiranae				
+10632		10631	Subclass	Thalassiosirophycidae		1		
+10633	10631		Order	Thalassiosirales		1		
+10634	10633		Family	Lauderiaceae		1		
+10635	10633		Family	Skeletonemaceae		1		
+10636	10633		Family	Stephanodiscaceae		1		
+10637	10633		Family	Thalassiosiraceae		1		
+10638	10633		Family	Thalassiosiropsidaceae				
+10639	10633		Family	Trochosiraceae				
+10640	1045		Subclass	Fragilariophycidae		1		
+10641	10640		Superorder	Fragilariophycanae				
+10642	10641		Order	Ardissoneales		1		
+10643	10642		Family	Ardissoneaceae		1		
+10644	10641		Order	Climacospheniales				
+10645	10644		Family	Climacospheniaceae				
+10646	10641		Order	Cyclophorales				
+10647	10646		Family	Cyclophoraceae				
+10648	10646		Family	Entopylaceae				
+10649	10641		Order	Fragilariales		1		
+10650	10649		Family	Fragilariaceae		1		
+10651	10641		Order	Licmophorales		1		
+10652	10651		Family	Licmophoraceae		1		
+10653	10641		Order	Protoraphidales				
+10654	10653		Family	Protoraphidaceae				
+10655	10641		Order	Rhabdonematales		1		
+10656	10655		Family	Rhabdonemataceae		1		
+10657	10641		Order	Rhaphoneidales				
+10658	10641		Order	Striatellales		1		
+10659	10658		Family	Striatellaceae		1		
+10660	10641		Order	Tabellariales		1		
+10661	10660		Family	Tabellariaceae		1		
+10662	10641		Order	Thalassionematales		1		
+10663	10662		Family	Thalassionemataceae		1		
+10664	10641		Order	Toxariales				
+10665	10664		Family	Toxariaceae				
+1050	10491		Class	Bolidophyceae		1		
+10666	1050		Order	Bolidomonadales		1		
+10667	10666		Family	Bolidomonadaceae		1		
+1051	10491		Class	Mediophyceae		1		
+10668	113		Subphylum	Phaeista				
+10669	10668		Infraphylum	Limnista				
+1052	10669		Class	Chrysophyceae		1		
+10670		1052	Order	Chrysomonadida				
+117		1052	Phylum	Chrysophyta		1		
+10671	1052		Order	Chloramoebales				
+10672	10671		Family	Chloramoebaceae				
+10673	1052		Order	Chromulinales				
+10674		10673	Order	Chromalinales				
+10675	10673		Family	Chrysamoebaceae				
+10676	10673		Family	Chrysocapsaceae				
+10677	10673		Family	Chrysococcaceae				
+10678	10673		Family	Chrysolepidomonadaceae				
+10679	10673		Family	Chrysosphaeraceae				
+10680	10673		Family	Chrysothallaceae				
+10681	10673		Family	Dinobryaceae				
+10682	1052		Order	Chrysosphaerales				
+10683	1052		Order	Heterogloeales				
+10684	10683		Family	Heterogloeaceae				
+10685	1052		Order	Hibberdiales				
+10686	10685		Family	Hibberdiaceae				
+10687	10685		Family	Stylococcaceae				
+10688	1052		Order	Hydrurales				
+10689	10688		Family	Hydruraceae				
+10690	1052		Order	Ochromonadales		1		
+10691	10690		Family	Chromulinaceae				
+10692	10690		Family	Ochromonadaceae		1		
+10693	10690		Family	Paraphysomonadaceae		1		
+10694	1052		Order	Parmales		1		
+10695	10694		Family	Pentalaminaceae		1		
+10696	10694		Family	Triparmaceae		1		
+10697	1052		Order	Synurales		1		
+10698	10697		Family	Mallomonadaceae				
+10699	10697		Family	Synuraceae				
+10700	1052		Order	Thallochrysidales				
+10701	10700		Family	Thallochrysidaceae				
+1053	10669		Class	Eustigmatophyceae		1		
+10702	1053		Order	Eustigmatales		1		
+10703	10702		Family	Chlorobothryaceae				
+10704	10702		Family	Eustigmataceae				
+10705	10702		Family	Loboceae				
+10706	10702		Family	Monodopsidaceae		1		
+10707	10702		Family	Pseudocharaciopsidaceae				
+10708	10669		Superclass	Fucistia				
+1054	10708		Class	Aurearenophyceae		1		
+10709	1054		Order	Aurearenales		1		
+10710	10709		Family	Aurearenaceae		1		
+1055	10708		Class	Chrysomerophyceae		1		
+10711	1055		Order	Chrysomeridales		1		
+10712	10711		Family	Chrysomeridaceae		1		
+1056	10708		Class	Phaeophyceae		1		
+118		1056	Phylum	Phaeophycota		1		
+119		1056	Phylum	Phaeophyta		1		
+10713	1056		Order	Ascoseirales		1		
+10714	10713		Family	Ascoseiraceae		1		
+10715	10713		Family	Ascoseriaceae		1		
+10716	1056		Order	Asterocladales				
+10717	10716		Family	Asterocladaceae				
+10718	1056		Order	Choristocarpales		1		
+10719	1056		Order	Cutleriales		1		
+10720	10719		Family	Cutleriaceae		1		
+10721	1056		Order	Desmarestiales		1		
+10722	10721		Family	Arthrocladiaceae		1		
+10723	10721		Family	Desmarestiaceae		1		
+10724	1056		Order	Dictyosiphonales		1		
+10725	10724		Family	Buffhamiaceae		1		
+10726	10724		Family	Coilodesmaceae		1		
+10727	10724		Family	Delamareaceae		1		
+10728	10724		Family	Dictyosiphonaceae		1		
+10729	10724		Family	Giraudiaceae		1		
+10730	10724		Family	Myriotrichiaceae		1		
+10731	10724		Family	Pogotrichiaceae		1		
+10732	10724		Family	Punctariaceae		1		
+10733	10724		Family	Striariaceae		1		
+10734	1056		Order	Dictyotales		1		
+10735	10734		Family	Dictyotaceae		1		
+10736	10734		Family	Scoresbyellaceae		1		
+10737	1056		Order	Discosporangiales				
+10738	10737		Family	Choristocarpaceae		1		
+10739	1056		Order	Ectocarpales		1		
+10740	10739		Family	Acinetosporaceae		1		
+10741	10739		Family	Adenocystaceae		1		
+10742	10739		Family	Chordariaceae		1		
+10743	10739		Family	Chordariopsidaceae		1		
+10744	10739		Family	Ectocarpaceae		1		
+10745	10739		Family	Lithodermataceae		1		
+10746	10739		Family	Mesosporaceae		1		
+10747	10739		Family	Myrionemataceae		1		
+10748	10739		Family	Petrospongiaceae				
+10749	10739		Family	Pilayellaceae		1		
+10750	10739		Family	Pylaiellaceae		1		
+10751	10739		Family	Sorocarpaceae		1		
+10752	1056		Order	Fucales		1		
+10753	10752		Family	Bifurcariopsidaceae		1		
+10754	10752		Family	Durvillaeaceae		1		
+10755	10752		Family	Fucaceae		1		
+10756	10752		Family	Himanthaliaceae		1		
+10757	10752		Family	Hormosiraceae		1		
+10758	10752		Family	Notheiaceae		1		
+10759	10752		Family	Sargassaceae		1		
+10760		10759	Family	Cystoseiraceae		1		
+10761	10752		Family	Seirococcaceae		1		
+10762	10752		Family	Xiphophoraceae				
+10763	1056		Order	Ishigeales		1		
+10764	10763		Family	Ishigeaceae		1		
+10765	1056		Order	Laminariales		1		
+10766	10765		Family	Akkesiphycaceae		1		
+10767	10765		Family	Alariaceae		1		
+10768	10765		Family	Chordaceae		1		
+10769	10765		Family	Costariaceae		1		
+10770	10765		Family	Laminariaceae		1		
+10771	10765		Family	Lessoniaceae		1		
+10772	10765		Family	Pseudochordaceae		1		
+10773	1056		Order	Nemodermatales		1		
+10774	10773		Family	Nemodermataceae		1		
+10775	1056		Order	Onslowiales		1		
+10776	10775		Family	Onslowiaceae		1		
+10777	1056		Family	Phaeosiphoniellaceae		1		
+10778	1056		Family	Phaeostrophiaceae		1		
+10779	1056		Order	Phaeothamniales		1		
+10780	10779		Family	Phaeosaccionaceae				
+10781	10779		Family	Phaeothamniaceae		1		
+10782	1056		Order	Pleurochloridellales				
+10783	1056		Order	Ralfsiales		1		
+10784	10783		Family	Neoralfsiaceae				
+10785	10783		Family	Ralfsiaceae		1		
+10786	1056		Order	Scytosiphonales		1		
+10787	10786		Family	Chnoosporaceae		1		
+10788	10786		Family	Scytosiphonaceae		1		
+10789	1056		Order	Scytothamnales		1		
+10790	10789		Family	Asteronemataceae				
+10791	10789		Family	Bachelotiaceae				
+10792	10789		Family	Scytothamnaceae		1		
+10793	10789		Family	Splachnidiaceae		1		
+10794	1056		Order	Sphacelariales		1		
+10795	10794		Family	Cladostephaceae				
+10796	10794		Family	Sphacelariaceae		1		
+10797	10794		Family	Sphacelodermaceae				
+10798	10794		Family	Stypocaulaceae		1		
+10799	1056		Order	Sporochnales		1		
+10800	10799		Family	Sporochnaceae		1		
+10801	1056		Order	Syringodermatales		1		
+10802	10801		Family	Syringodermataceae		1		
+10803	1056		Order	Tilopteridales		1		
+10804	10803		Family	Halosiphonaceae		1		
+10805	10803		Family	Masonophycaceae		1		
+10806	10803		Family	Phyllariaceae		1		
+10807	10803		Family	Stschapoviaceae		1		
+10808	10803		Family	Tilopteridaceae		1		
+1057	10708		Class	Phaeothamniophyceae		1		
+1058	10708		Class	Schizocladiophyceae				
+10809	1058		Order	Schizocladiales				
+10810	10809		Family	Schizocladiaceae				
+1059	10708		Class	Xanthophyceae		1		
+10811		1059	Order	Heterochlorida				
+120		1059	Phylum	Xanthophyta		1		
+10812	1059		Order	Botrydiales				
+10813	10812		Family	Botrydiaceae				
+10814	1059		Order	Mischococcales		1		
+10815	10814		Family	Botrydiopsidaceae				
+10816	10814		Family	Botryochloridaceae				
+10817	10814		Family	Centritractaceae				
+10818	10814		Family	Characiopsidaceae				
+10819	10814		Family	Chloropediaceae				
+10820	10814		Family	Gloeobotrydaceae				
+10821	10814		Family	Gloeopodiaceae				
+10822	10814		Family	Mischococcaceae				
+10823	10814		Family	Ophiocytiaceae				
+10824	10814		Family	Pleurochloridaceae		1		
+10825	10814		Family	Trypanochloridaceae				
+10826	1059		Order	Phyllosiphonales				
+10827	10826		Family	Phyllosiphonaceae				
+10828	1059		Order	Rhizochloridales		1		
+10829	10828		Family	Myxochloridaceae				
+10830	10828		Family	Rhizochloridaceae		1		
+10831	10828		Family	Rhizogranulochloridaceae				
+10832	10828		Family	Rhizounochloridaceae				
+10833	10828		Family	Stipitococcaceae				
+10834	1059		Order	Tribonematales				
+10835	10834		Family	Heterodendraceae				
+10836	10834		Family	Heteropediaceae				
+10837	10834		Family	Neonemataceae				
+10838	10834		Family	Tribonemataceae		1		
+10839	10834		Family	Xanthonemataceae				
+10840	1059		Order	Vaucheriales		1		
+10841	10840		Family	Vaucheriaceae		1		
+1060	10669		Class	Picophagea				
+1061		1060	Class	Picophagophyceae		1		
+10842	1060		Order	Chlamydomyxales				
+10843	10842		Family	Chlamydomyxaceae				
+10844	1060		Order	Picophagales		1		
+10845	10844		Family	Picophagaceae		1		
+1062	10669		Class	Synchromophyceae		1		
+10846	1062		Order	Synchromales		1		
+10847	10846		Family	Synchromaceae		1		
+10848	10668		Infraphylum	Monista				
+10849	10848		Superclass	Hypogyristia				
+1063	10849		Class	Dictyochophyceae		1		
+10850	1063		Subclass	Alophycidae				
+10851	10850		Superorder	Actinochrysia				
+10852	10851		Order	Pedinellales		1		
+1064		10852	Class	Pedinellophyceae		1		
+10853	10852		Family	Cyrtophoraceae		1		
+10854	10852		Family	Pedinellaceae		1		
+10855	10851		Order	Silicoflagellata				
+10856	10850		Superorder	Pelagophycia				
+10857	10856		Order	Pelagomonadales		1		
+10858	10857		Family	Pelagomonadaceae		1		
+10859	10856		Order	Sarcinochrysidales		1		
+10860	10859		Family	Sarcinochrysidaceae		1		
+10861	1063		Order	Dictyochales		1		
+10862		10861	Order	Silicoflagellida		1		
+10863	10861		Family	Dictyochaceae		1		
+10864	1063		Order	Florenciellales		1		
+10865	1063		Subclass	Pinguiophycidae				
+10866	10865		Order	Pinguiochrysidales		1		
+10867	10866		Family	Pinguiochrysidaceae		1		
+10868	1063		Order	Rhizochromulinales				
+10869	10868		Family	Rhizochromulinaceae		1		
+1065	10849		Class	Pelagophyceae		1		
+10870	10848		Superclass	Raphidoistia				
+1066	10870		Class	Pinguiophyceae		1		
+1067	10870		Class	Raphidophyceae		1		
+10871	1067		Order	Chattonellales		1		
+10872	10871		Family	Chattonellaceae		1		
+10873	10871		Family	Vacuolariaceae		1		
+10874	1067		Order	Raphidomonadales				
+1068	10668		Class	Synurophyceae		1		
+1069	113		Class	Placidiophyceae				
+10875	1069		Order	Placidiales				
