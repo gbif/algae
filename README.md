@@ -1,9 +1,9 @@
 # GBIF Algae Classification
-A classification for [all algae from kingdom down to families](algae.txt) distributed across the 3 kingdoms Plantae, Chromista and Protozoa.
+A classification for [all algae sensu latu from kingdom down to families](algae.txt) distributed across the 3 kingdoms Plantae, Chromista and Protozoa.
 The project is setup so that the github zip represents a valid Darwin Core Checklist Archive, synonyms are included.
 
-This classification is aiming to fill the algae gaps in the current Catalog of Life which has no taxa within the following phyla:
- - Chromista: Cryptophyta, Haptophyta, Ochrophyta
+This classification is aiming to fill the gaps in the current Catalog of Life due to the removal of Algaebase. The CoL currently has no taxa within the following phyla:
+ - Chromista: Cryptophyta, Haptophyta, Ochrophyta, Myzozoa
  - Plantae: Charophyta, Chlorophyta, Glaucophyta, Rhodophyta
  - Protozoa: Euglenozoa
 
@@ -23,7 +23,7 @@ Chromista
  *Cryptista
   Foraminifera
  *Haptophyta
-  Miozoa
+ *Miozoa
  *Ochrophyta
   Oomycota
   Radiozoa
@@ -59,6 +59,8 @@ For Protozoa we will only treat the "algae" phylum Euglenozoa:
     - Cryptista aka Cryptophyta
     - Haptophyta
     - Ochrophyta
+    - Myzozoa (preferred over Miozoa, see [WoRMS](http://www.marinespecies.org/aphia.php?p=taxdetails&id=450030) and [Wikipedia](https://en.wikipedia.org/wiki/Myzozoa))
+    - Cercozoa
  - Plantae
     - Charophyta
     - Chlorophyta
@@ -76,9 +78,6 @@ Classification down to families: [plantae](itis/itis-plantae.md), [chromista](it
 
 ### WoRMS
 Classification down to families for the kingdoms: [plantae](worms/worms-3.txt), [chromista](worms/worms-7.txt) & [protozoa](worms/worms-5.txt)
-
-### Algaebase
-Hard to access and the bad guy who requested removal from CoL and prevends WoRMS from sharing
 
 ### Ruggiero 2015
 See [PLOS article 10.1371/journal.pone.0119248](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119248)
